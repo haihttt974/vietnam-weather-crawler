@@ -1,0 +1,1 @@
+worker: python weather_fetch_openweathermap.py
