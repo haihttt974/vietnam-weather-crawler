@@ -531,3 +531,166 @@ time,province,city,temperature,temp_min,temp_max,humidity,feels_like,visibility,
 2025-06-30 17:26:26,Thai Nguyen-Song Cong,Song Cong,27.86,27.86,27.86,87.0,32.82,10000.0,5.62,100.0,1.72,2.24,192.0,1000.0,1,502,Rain,heavy intensity rain,10d
 2025-06-30 17:28:29,Thai Nguyen-Song Cong,Song Cong,27.86,27.86,27.86,87.0,32.82,10000.0,6.48,100.0,1.72,2.24,192.0,1000.0,1,502,Rain,heavy intensity rain,10d
 2025-06-30 17:30:36,Thai Nguyen-Song Cong,Song Cong,27.48,27.48,27.48,86.0,31.6,10000.0,11.53,100.0,1.41,1.88,167.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 17:34:00,Thai Nguyen-Song Cong,Song Cong,27.48,27.48,27.48,86.0,31.6,10000.0,11.53,100.0,1.41,1.88,167.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 17:35:54,Thai Nguyen-Song Cong,Song Cong,27.48,27.48,27.48,86.0,31.6,10000.0,11.53,100.0,1.41,1.88,167.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 17:37:48,Thai Nguyen-Song Cong,Song Cong,27.48,27.48,27.48,86.0,31.6,10000.0,11.53,100.0,1.41,1.88,167.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 17:39:42,Thai Nguyen-Song Cong,Song Cong,27.48,27.48,27.48,86.0,31.6,10000.0,11.53,100.0,1.41,1.88,167.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 17:41:36,Thai Nguyen-Song Cong,Song Cong,27.48,27.48,27.48,86.0,31.6,10000.0,6.14,100.0,1.41,1.88,167.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 17:43:31,Thai Nguyen-Song Cong,Song Cong,27.48,27.48,27.48,86.0,31.6,10000.0,6.14,100.0,1.41,1.88,167.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 17:45:26,Thai Nguyen-Song Cong,Song Cong,27.48,27.48,27.48,86.0,31.6,10000.0,6.14,100.0,1.41,1.88,167.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 17:47:20,Thai Nguyen-Song Cong,Song Cong,27.42,27.42,27.42,88.0,31.7,10000.0,7.49,100.0,1.41,1.88,167.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 17:49:15,Thai Nguyen-Song Cong,Song Cong,27.42,27.42,27.42,88.0,31.7,10000.0,7.49,100.0,1.41,1.88,167.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 17:51:10,Thai Nguyen-Song Cong,Song Cong,27.48,27.48,27.48,86.0,31.6,10000.0,6.14,100.0,1.41,1.88,167.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 17:53:04,Thai Nguyen-Song Cong,Song Cong,27.42,27.42,27.42,88.0,31.7,10000.0,9.99,100.0,1.41,1.88,167.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 17:54:59,Thai Nguyen-Song Cong,Song Cong,27.42,27.42,27.42,88.0,31.7,10000.0,9.99,100.0,1.41,1.88,167.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 17:56:53,Thai Nguyen-Song Cong,Song Cong,27.42,27.42,27.42,88.0,31.7,10000.0,9.99,100.0,1.41,1.88,167.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 17:58:47,Thai Nguyen-Song Cong,Song Cong,27.42,27.42,27.42,88.0,31.7,10000.0,9.99,100.0,1.41,1.88,167.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 18:00:41,Thai Nguyen-Song Cong,Song Cong,27.42,27.42,27.42,88.0,31.7,10000.0,9.99,100.0,1.41,1.88,167.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 18:02:37,Thai Nguyen-Song Cong,Song Cong,27.42,27.42,27.42,88.0,31.7,10000.0,9.99,100.0,1.41,1.88,167.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 18:04:31,Thai Nguyen-Song Cong,Song Cong,27.44,27.44,27.44,89.0,31.89,10000.0,15.38,100.0,1.41,1.88,167.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 18:06:29,Thai Nguyen-Song Cong,Song Cong,27.44,27.44,27.44,89.0,31.89,10000.0,15.38,100.0,1.41,1.88,167.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 18:08:24,Thai Nguyen-Song Cong,Song Cong,27.44,27.44,27.44,89.0,31.89,10000.0,15.38,100.0,1.41,1.88,167.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 18:10:19,Thai Nguyen-Song Cong,Song Cong,27.44,27.44,27.44,89.0,31.89,10000.0,15.38,100.0,1.41,1.88,167.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 18:12:13,Thai Nguyen-Song Cong,Song Cong,27.44,27.44,27.44,89.0,31.89,10000.0,15.38,100.0,1.41,1.88,167.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 18:14:07,Thai Nguyen-Song Cong,Song Cong,27.44,27.44,27.44,89.0,31.89,10000.0,15.38,100.0,1.41,1.88,167.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 18:16:02,Thai Nguyen-Song Cong,Song Cong,27.44,27.44,27.44,89.0,31.89,10000.0,15.38,100.0,1.41,1.88,167.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 18:17:56,Thai Nguyen-Song Cong,Song Cong,27.43,27.43,27.43,89.0,31.86,10000.0,17.76,100.0,1.41,1.88,167.0,1000.0,1,503,Rain,very heavy rain,10d
+2025-06-30 18:19:51,Thai Nguyen-Song Cong,Song Cong,27.44,27.44,27.44,89.0,31.89,10000.0,15.38,100.0,1.41,1.88,167.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 18:21:45,Thai Nguyen-Song Cong,Song Cong,27.43,27.43,27.43,89.0,31.86,10000.0,17.76,100.0,1.41,1.88,167.0,1000.0,1,503,Rain,very heavy rain,10d
+2025-06-30 18:23:39,Thai Nguyen-Song Cong,Song Cong,27.43,27.43,27.43,89.0,31.86,10000.0,17.76,100.0,1.41,1.88,167.0,1000.0,1,503,Rain,very heavy rain,10d
+2025-06-30 18:25:34,Thai Nguyen-Song Cong,Song Cong,27.43,27.43,27.43,89.0,31.86,10000.0,17.76,100.0,1.41,1.88,167.0,1000.0,1,503,Rain,very heavy rain,10d
+2025-06-30 18:27:28,Thai Nguyen-Song Cong,Song Cong,27.43,27.43,27.43,89.0,31.86,10000.0,17.76,100.0,1.41,1.88,167.0,1000.0,1,503,Rain,very heavy rain,10d
+2025-06-30 18:29:22,Thai Nguyen-Song Cong,Song Cong,27.43,27.43,27.43,89.0,31.86,10000.0,17.76,100.0,1.41,1.88,167.0,1000.0,1,503,Rain,very heavy rain,10d
+2025-06-30 18:31:17,Thai Nguyen-Song Cong,Song Cong,27.11,27.11,27.11,90.0,31.05,10000.0,15.38,100.0,1.97,2.24,143.0,1001.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 18:33:12,Thai Nguyen-Song Cong,Song Cong,27.11,27.11,27.11,90.0,31.05,10000.0,15.38,100.0,1.97,2.24,143.0,1001.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 18:35:06,Thai Nguyen-Song Cong,Song Cong,27.11,27.11,27.11,90.0,31.05,10000.0,15.38,100.0,1.97,2.24,143.0,1001.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 18:37:00,Thai Nguyen-Song Cong,Song Cong,27.11,27.11,27.11,90.0,31.05,10000.0,15.38,100.0,1.97,2.24,143.0,1001.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 18:38:55,Thai Nguyen-Song Cong,Song Cong,27.11,27.11,27.11,90.0,31.05,10000.0,15.38,100.0,1.97,2.24,143.0,1001.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 18:40:50,Thai Nguyen-Song Cong,Song Cong,27.11,27.11,27.11,90.0,31.05,10000.0,15.38,100.0,1.97,2.24,143.0,1001.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 18:42:44,Thai Nguyen-Song Cong,Song Cong,27.11,27.11,27.11,90.0,31.05,10000.0,15.38,100.0,1.97,2.24,143.0,1001.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 18:44:38,Thai Nguyen-Song Cong,Song Cong,27.11,27.11,27.11,90.0,31.05,10000.0,15.38,100.0,1.97,2.24,143.0,1001.0,0,502,Rain,heavy intensity rain,10d
+2025-06-30 18:46:32,Thai Nguyen-Song Cong,Song Cong,27.11,27.11,27.11,90.0,31.05,10000.0,15.38,100.0,1.97,2.24,143.0,1001.0,0,502,Rain,heavy intensity rain,10d
+2025-06-30 18:48:27,Thai Nguyen-Song Cong,Song Cong,27.11,27.11,27.11,90.0,31.05,10000.0,15.38,100.0,1.97,2.24,143.0,1001.0,0,502,Rain,heavy intensity rain,10d
+2025-06-30 18:50:21,Thai Nguyen-Song Cong,Song Cong,27.09,27.09,27.09,89.0,30.88,10000.0,9.99,100.0,1.97,2.24,143.0,1001.0,0,502,Rain,heavy intensity rain,10n
+2025-06-30 18:52:16,Thai Nguyen-Song Cong,Song Cong,27.09,27.09,27.09,89.0,30.88,10000.0,9.99,100.0,1.97,2.24,143.0,1001.0,0,502,Rain,heavy intensity rain,10n
+2025-06-30 18:54:10,Thai Nguyen-Song Cong,Song Cong,27.09,27.09,27.09,89.0,30.88,10000.0,9.99,100.0,1.97,2.24,143.0,1001.0,0,502,Rain,heavy intensity rain,10n
+2025-06-30 18:56:04,Thai Nguyen-Song Cong,Song Cong,27.09,27.09,27.09,89.0,30.88,10000.0,8.65,100.0,1.97,2.24,143.0,1001.0,0,502,Rain,heavy intensity rain,10n
+2025-06-30 18:57:59,Thai Nguyen-Song Cong,Song Cong,27.09,27.09,27.09,89.0,30.88,10000.0,8.65,100.0,1.97,2.24,143.0,1001.0,0,502,Rain,heavy intensity rain,10n
+2025-06-30 18:59:54,Thai Nguyen-Song Cong,Song Cong,27.09,27.09,27.09,89.0,30.88,10000.0,8.65,100.0,1.97,2.24,143.0,1001.0,0,502,Rain,heavy intensity rain,10n
+2025-06-30 19:01:48,Thai Nguyen-Song Cong,Song Cong,27.09,27.09,27.09,89.0,30.88,10000.0,8.65,100.0,1.97,2.24,143.0,1001.0,0,502,Rain,heavy intensity rain,10n
+2025-06-30 19:03:42,Thai Nguyen-Song Cong,Song Cong,27.09,27.09,27.09,89.0,30.88,10000.0,7.49,100.0,1.49,1.55,138.0,1001.0,0,502,Rain,heavy intensity rain,10n
+2025-06-30 19:05:37,Thai Nguyen-Song Cong,Song Cong,27.09,27.09,27.09,89.0,30.88,10000.0,7.49,100.0,1.49,1.55,138.0,1001.0,0,502,Rain,heavy intensity rain,10n
+2025-06-30 19:07:32,Thai Nguyen-Song Cong,Song Cong,27.09,27.09,27.09,89.0,30.88,10000.0,7.49,100.0,1.49,1.55,138.0,1001.0,0,502,Rain,heavy intensity rain,10n
+2025-06-30 19:09:28,Thai Nguyen-Song Cong,Song Cong,27.09,27.09,27.09,89.0,30.88,10000.0,6.48,100.0,1.49,1.55,138.0,1001.0,0,502,Rain,heavy intensity rain,10n
+2025-06-30 19:11:23,Thai Nguyen-Song Cong,Song Cong,27.09,27.09,27.09,89.0,30.88,10000.0,7.49,100.0,1.49,1.55,138.0,1001.0,0,502,Rain,heavy intensity rain,10n
+2025-06-30 19:13:18,Thai Nguyen-Song Cong,Song Cong,27.09,27.09,27.09,89.0,30.88,10000.0,7.49,100.0,1.49,1.55,138.0,1001.0,0,502,Rain,heavy intensity rain,10n
+2025-06-30 19:15:12,Thai Nguyen-Song Cong,Song Cong,27.09,27.09,27.09,89.0,30.88,10000.0,6.48,100.0,1.49,1.55,138.0,1001.0,0,502,Rain,heavy intensity rain,10n
+2025-06-30 19:17:07,Thai Nguyen-Song Cong,Song Cong,27.09,27.09,27.09,89.0,30.88,10000.0,6.48,100.0,1.49,1.55,138.0,1001.0,0,502,Rain,heavy intensity rain,10n
+2025-06-30 19:19:01,Thai Nguyen-Song Cong,Song Cong,27.09,27.09,27.09,89.0,30.88,10000.0,6.48,100.0,1.49,1.55,138.0,1001.0,0,502,Rain,heavy intensity rain,10n
+2025-06-30 19:20:56,Thai Nguyen-Song Cong,Song Cong,27.09,27.09,27.09,89.0,30.88,10000.0,2.37,100.0,1.49,1.55,138.0,1001.0,0,501,Rain,moderate rain,10n
+2025-06-30 19:22:51,Thai Nguyen-Song Cong,Song Cong,27.09,27.09,27.09,89.0,30.88,10000.0,2.37,100.0,1.49,1.55,138.0,1001.0,0,501,Rain,moderate rain,10n
+2025-06-30 19:24:46,Thai Nguyen-Song Cong,Song Cong,27.09,27.09,27.09,89.0,30.88,10000.0,2.37,100.0,1.49,1.55,138.0,1001.0,0,501,Rain,moderate rain,10n
+2025-06-30 19:26:41,Thai Nguyen-Song Cong,Song Cong,27.09,27.09,27.09,89.0,30.88,10000.0,1.54,100.0,1.49,1.55,138.0,1001.0,0,501,Rain,moderate rain,10n
+2025-06-30 19:28:35,Thai Nguyen-Song Cong,Song Cong,27.09,27.09,27.09,89.0,30.88,10000.0,2.37,100.0,1.49,1.55,138.0,1001.0,0,501,Rain,moderate rain,10n
+2025-06-30 19:30:30,Thai Nguyen-Song Cong,Song Cong,27.09,27.09,27.09,89.0,30.88,10000.0,2.37,100.0,1.49,1.55,138.0,1001.0,0,501,Rain,moderate rain,10n
+2025-06-30 19:32:24,Thai Nguyen-Song Cong,Song Cong,26.75,26.75,26.75,89.0,29.94,10000.0,1.63,100.0,1.84,2.02,148.0,1002.0,0,501,Rain,moderate rain,10n
+2025-06-30 19:34:19,Thai Nguyen-Song Cong,Song Cong,26.75,26.75,26.75,89.0,29.94,10000.0,1.63,100.0,1.84,2.02,148.0,1002.0,0,501,Rain,moderate rain,10n
+2025-06-30 19:36:13,Thai Nguyen-Song Cong,Song Cong,26.75,26.75,26.75,89.0,29.94,10000.0,1.63,100.0,1.84,2.02,148.0,1002.0,0,501,Rain,moderate rain,10n
+2025-06-30 19:38:08,Thai Nguyen-Song Cong,Song Cong,26.75,26.75,26.75,89.0,29.94,10000.0,1.63,100.0,1.84,2.02,148.0,1002.0,0,501,Rain,moderate rain,10n
+2025-06-30 19:40:02,Thai Nguyen-Song Cong,Song Cong,26.75,26.75,26.75,89.0,29.94,10000.0,1.63,100.0,1.84,2.02,148.0,1002.0,0,501,Rain,moderate rain,10n
+2025-06-30 19:41:56,Thai Nguyen-Song Cong,Song Cong,26.4,26.4,26.4,90.0,26.4,10000.0,1.78,100.0,1.84,2.02,148.0,1002.0,0,501,Rain,moderate rain,10n
+2025-06-30 19:43:51,Thai Nguyen-Song Cong,Song Cong,26.4,26.4,26.4,90.0,26.4,10000.0,1.78,100.0,1.84,2.02,148.0,1002.0,0,501,Rain,moderate rain,10n
+2025-06-30 19:45:45,Thai Nguyen-Song Cong,Song Cong,26.4,26.4,26.4,90.0,26.4,10000.0,1.78,100.0,1.84,2.02,148.0,1002.0,0,501,Rain,moderate rain,10n
+2025-06-30 19:47:40,Thai Nguyen-Song Cong,Song Cong,26.4,26.4,26.4,90.0,26.4,10000.0,1.78,100.0,1.84,2.02,148.0,1002.0,0,501,Rain,moderate rain,10n
+2025-06-30 19:49:34,Thai Nguyen-Song Cong,Song Cong,26.4,26.4,26.4,90.0,26.4,10000.0,1.78,100.0,1.84,2.02,148.0,1002.0,0,501,Rain,moderate rain,10n
+2025-06-30 19:51:28,Thai Nguyen-Song Cong,Song Cong,26.4,26.4,26.4,90.0,26.4,10000.0,1.78,100.0,1.84,2.02,148.0,1002.0,0,501,Rain,moderate rain,10n
+2025-06-30 19:53:23,Thai Nguyen-Song Cong,Song Cong,26.41,26.41,26.41,89.0,26.41,10000.0,1.94,100.0,1.84,2.02,148.0,1002.0,0,501,Rain,moderate rain,10n
+2025-06-30 19:55:18,Thai Nguyen-Song Cong,Song Cong,26.41,26.41,26.41,89.0,26.41,10000.0,1.94,100.0,1.84,2.02,148.0,1002.0,0,501,Rain,moderate rain,10n
+2025-06-30 19:57:12,Thai Nguyen-Song Cong,Song Cong,26.41,26.41,26.41,89.0,26.41,10000.0,1.94,100.0,1.84,2.02,148.0,1002.0,0,501,Rain,moderate rain,10n
+2025-06-30 19:59:07,Thai Nguyen-Song Cong,Song Cong,26.41,26.41,26.41,89.0,26.41,10000.0,2.05,100.0,1.84,2.02,148.0,1002.0,0,501,Rain,moderate rain,10n
+2025-06-30 20:01:02,Thai Nguyen-Song Cong,Song Cong,26.41,26.41,26.41,89.0,26.41,10000.0,1.78,100.0,1.84,2.02,148.0,1002.0,0,501,Rain,moderate rain,10n
+2025-06-30 20:02:58,Thai Nguyen-Song Cong,Song Cong,26.41,26.41,26.41,89.0,26.41,10000.0,2.05,100.0,1.84,2.02,148.0,1002.0,0,501,Rain,moderate rain,10n
+2025-06-30 20:04:53,Thai Nguyen-Song Cong,Song Cong,26.41,26.41,26.41,89.0,26.41,10000.0,2.05,100.0,1.84,2.02,148.0,1002.0,0,501,Rain,moderate rain,10n
+2025-06-30 20:06:48,Thai Nguyen-Song Cong,Song Cong,26.41,26.41,26.41,89.0,26.41,10000.0,1.78,100.0,1.84,2.02,148.0,1002.0,0,501,Rain,moderate rain,10n
+2025-06-30 20:08:42,Thai Nguyen-Song Cong,Song Cong,26.41,26.41,26.41,89.0,26.41,10000.0,1.78,100.0,1.84,2.02,148.0,1002.0,0,501,Rain,moderate rain,10n
+2025-06-30 20:10:36,Thai Nguyen-Song Cong,Song Cong,26.41,26.41,26.41,89.0,26.41,10000.0,1.78,100.0,1.84,2.02,148.0,1002.0,0,501,Rain,moderate rain,10n
+2025-06-30 20:12:30,Thai Nguyen-Song Cong,Song Cong,26.43,26.43,26.43,91.0,26.43,10000.0,1.54,100.0,1.84,2.02,148.0,1002.0,0,501,Rain,moderate rain,10n
+2025-06-30 20:14:25,Thai Nguyen-Song Cong,Song Cong,26.43,26.43,26.43,91.0,26.43,10000.0,1.0,100.0,1.84,2.02,148.0,1002.0,0,500,Rain,light rain,10n
+2025-06-30 20:16:20,Thai Nguyen-Song Cong,Song Cong,26.43,26.43,26.43,91.0,26.43,10000.0,1.54,100.0,1.84,2.02,148.0,1002.0,0,501,Rain,moderate rain,10n
+2025-06-30 20:18:14,Thai Nguyen-Song Cong,Song Cong,26.43,26.43,26.43,91.0,26.43,10000.0,1.54,100.0,1.84,2.02,148.0,1002.0,0,501,Rain,moderate rain,10n
+2025-06-30 20:20:08,Thai Nguyen-Song Cong,Song Cong,26.43,26.43,26.43,91.0,26.43,10000.0,1.54,100.0,1.84,2.02,148.0,1002.0,0,501,Rain,moderate rain,10n
+2025-06-30 20:22:03,Thai Nguyen-Song Cong,Song Cong,26.43,26.43,26.43,91.0,26.43,10000.0,1.54,100.0,1.84,2.02,148.0,1002.0,0,501,Rain,moderate rain,10n
+2025-06-30 20:23:58,Thai Nguyen-Song Cong,Song Cong,26.42,26.42,26.42,91.0,26.42,10000.0,1.15,100.0,1.84,2.02,148.0,1002.0,0,501,Rain,moderate rain,10n
+2025-06-30 20:25:52,Thai Nguyen-Song Cong,Song Cong,26.42,26.42,26.42,91.0,26.42,10000.0,1.33,100.0,1.84,2.02,148.0,1002.0,0,501,Rain,moderate rain,10n
+2025-06-30 20:27:47,Thai Nguyen-Song Cong,Song Cong,26.42,26.42,26.42,91.0,26.42,10000.0,1.33,100.0,1.84,2.02,148.0,1002.0,0,501,Rain,moderate rain,10n
+2025-06-30 20:29:41,Thai Nguyen-Song Cong,Song Cong,26.42,26.42,26.42,91.0,26.42,10000.0,1.33,100.0,1.84,2.02,148.0,1002.0,0,501,Rain,moderate rain,10n
+2025-06-30 20:31:35,Thai Nguyen-Song Cong,Song Cong,26.42,26.42,26.42,91.0,26.42,10000.0,1.15,100.0,1.84,2.02,148.0,1002.0,0,501,Rain,moderate rain,10n
+2025-06-30 20:33:29,Thai Nguyen-Song Cong,Song Cong,26.42,26.42,26.42,91.0,26.42,10000.0,1.15,100.0,1.84,2.02,148.0,1002.0,0,501,Rain,moderate rain,10n
+2025-06-30 20:35:24,Thai Nguyen-Song Cong,Song Cong,26.42,26.42,26.42,91.0,26.42,10000.0,1.33,100.0,1.84,2.02,148.0,1002.0,0,501,Rain,moderate rain,10n
+2025-06-30 20:37:18,Thai Nguyen-Song Cong,Song Cong,26.04,26.04,26.04,93.0,26.04,10000.0,1.41,100.0,1.49,1.63,147.0,1003.0,0,501,Rain,moderate rain,10n
+2025-06-30 20:39:13,Thai Nguyen-Song Cong,Song Cong,26.04,26.04,26.04,93.0,26.04,10000.0,1.41,100.0,1.49,1.63,147.0,1003.0,0,501,Rain,moderate rain,10n
+2025-06-30 20:41:08,Thai Nguyen-Song Cong,Song Cong,26.04,26.04,26.04,93.0,26.04,10000.0,1.41,100.0,1.49,1.63,147.0,1003.0,0,501,Rain,moderate rain,10n
+2025-06-30 20:43:03,Thai Nguyen-Song Cong,Song Cong,26.04,26.04,26.04,93.0,26.04,10000.0,1.41,100.0,1.49,1.63,147.0,1003.0,0,501,Rain,moderate rain,10n
+2025-06-30 20:44:57,Thai Nguyen-Song Cong,Song Cong,26.04,26.04,26.04,93.0,26.04,10000.0,1.41,100.0,1.49,1.63,147.0,1003.0,0,501,Rain,moderate rain,10n
+2025-06-30 20:46:52,Thai Nguyen-Song Cong,Song Cong,26.04,26.04,26.04,93.0,26.04,10000.0,1.41,100.0,1.49,1.63,147.0,1003.0,0,501,Rain,moderate rain,10n
+2025-06-30 20:48:46,Thai Nguyen-Song Cong,Song Cong,26.03,26.03,26.03,93.0,26.03,10000.0,1.54,100.0,1.49,1.63,147.0,1003.0,0,501,Rain,moderate rain,10n
+2025-06-30 20:50:41,Thai Nguyen-Song Cong,Song Cong,26.03,26.03,26.03,93.0,26.03,10000.0,0.5,100.0,1.49,1.63,147.0,1003.0,0,500,Rain,light rain,10n
+2025-06-30 20:52:36,Thai Nguyen-Song Cong,Song Cong,26.03,26.03,26.03,93.0,26.03,10000.0,0.5,100.0,1.49,1.63,147.0,1003.0,0,500,Rain,light rain,10n
+2025-06-30 20:54:30,Thai Nguyen-Song Cong,Song Cong,26.03,26.03,26.03,93.0,26.03,10000.0,0.5,100.0,1.49,1.63,147.0,1003.0,0,500,Rain,light rain,10n
+2025-06-30 20:56:25,Thai Nguyen-Song Cong,Song Cong,26.03,26.03,26.03,93.0,26.03,10000.0,1.54,100.0,1.49,1.63,147.0,1003.0,0,501,Rain,moderate rain,10n
+2025-06-30 20:58:19,Thai Nguyen-Song Cong,Song Cong,26.03,26.03,26.03,93.0,26.03,10000.0,1.54,100.0,1.49,1.63,147.0,1003.0,0,501,Rain,moderate rain,10n
+2025-06-30 21:00:14,Thai Nguyen-Song Cong,Song Cong,26.03,26.03,26.03,93.0,26.03,10000.0,0.87,100.0,1.49,1.63,147.0,1003.0,0,500,Rain,light rain,10n
+2025-06-30 21:02:10,Thai Nguyen-Song Cong,Song Cong,26.03,26.03,26.03,93.0,26.03,10000.0,0.87,100.0,1.49,1.63,147.0,1003.0,0,500,Rain,light rain,10n
+2025-06-30 21:05:56,Thai Nguyen-Song Cong,Song Cong,26.06,26.06,26.06,94.0,26.06,10000.0,0.65,100.0,1.49,1.63,147.0,1003.0,0,500,Rain,light rain,10n
+2025-06-30 21:07:50,Thai Nguyen-Song Cong,Song Cong,26.06,26.06,26.06,94.0,26.06,10000.0,0.65,100.0,1.49,1.63,147.0,1003.0,0,500,Rain,light rain,10n
+2025-06-30 21:09:45,Thai Nguyen-Song Cong,Song Cong,26.06,26.06,26.06,94.0,26.06,10000.0,0.65,100.0,1.49,1.63,147.0,1003.0,0,500,Rain,light rain,10n
+2025-06-30 21:11:39,Thai Nguyen-Song Cong,Song Cong,26.06,26.06,26.06,94.0,26.06,10000.0,0.65,100.0,1.49,1.63,147.0,1003.0,0,500,Rain,light rain,10n
+2025-06-30 21:13:33,Thai Nguyen-Song Cong,Song Cong,26.06,26.06,26.06,94.0,26.06,10000.0,0.65,100.0,1.49,1.63,147.0,1003.0,0,500,Rain,light rain,10n
+2025-06-30 21:15:29,Thai Nguyen-Song Cong,Song Cong,26.06,26.06,26.06,94.0,26.06,10000.0,0.32,100.0,1.49,1.63,147.0,1003.0,0,500,Rain,light rain,10n
+2025-06-30 21:17:24,Thai Nguyen-Song Cong,Song Cong,26.06,26.06,26.06,94.0,26.06,10000.0,0.32,100.0,1.49,1.63,147.0,1003.0,0,500,Rain,light rain,10n
+2025-06-30 21:19:18,Thai Nguyen-Song Cong,Song Cong,26.19,26.19,26.19,88.0,26.19,10000.0,0.75,100.0,1.49,1.63,147.0,1003.0,0,500,Rain,light rain,10n
+2025-06-30 21:21:12,Thai Nguyen-Song Cong,Song Cong,26.19,26.19,26.19,88.0,26.19,10000.0,0.75,100.0,1.49,1.63,147.0,1003.0,0,500,Rain,light rain,10n
+2025-06-30 21:23:07,Thai Nguyen-Song Cong,Song Cong,26.19,26.19,26.19,88.0,26.19,10000.0,0.75,100.0,1.49,1.63,147.0,1003.0,0,500,Rain,light rain,10n
+2025-06-30 21:25:01,Thai Nguyen-Song Cong,Song Cong,26.19,26.19,26.19,88.0,26.19,10000.0,0.75,100.0,1.49,1.63,147.0,1003.0,0,500,Rain,light rain,10n
+2025-06-30 21:26:56,Thai Nguyen-Song Cong,Song Cong,26.19,26.19,26.19,88.0,26.19,10000.0,0.75,100.0,1.49,1.63,147.0,1003.0,0,500,Rain,light rain,10n
+2025-06-30 21:28:50,Thai Nguyen-Song Cong,Song Cong,26.19,26.19,26.19,88.0,26.19,10000.0,0.75,100.0,1.49,1.63,147.0,1003.0,0,500,Rain,light rain,10n
+2025-06-30 21:30:45,Thai Nguyen-Song Cong,Song Cong,25.87,25.87,25.87,89.0,26.84,10000.0,0.5,100.0,1.22,1.27,137.0,1004.0,0,500,Rain,light rain,10n
+2025-06-30 21:32:39,Thai Nguyen-Song Cong,Song Cong,25.87,25.87,25.87,89.0,26.84,10000.0,0.5,100.0,1.22,1.27,137.0,1004.0,0,500,Rain,light rain,10n
+2025-06-30 21:34:33,Thai Nguyen-Song Cong,Song Cong,26.19,26.19,26.19,88.0,26.19,10000.0,0.75,100.0,1.49,1.63,147.0,1003.0,0,500,Rain,light rain,10n
+2025-06-30 21:36:29,Thai Nguyen-Song Cong,Song Cong,25.79,25.79,25.79,94.0,26.88,10000.0,0.56,100.0,1.22,1.27,137.0,1004.0,0,500,Rain,light rain,10n
+2025-06-30 21:38:24,Thai Nguyen-Song Cong,Song Cong,25.79,25.79,25.79,94.0,26.88,10000.0,0.56,100.0,1.22,1.27,137.0,1004.0,0,500,Rain,light rain,10n
+2025-06-30 21:40:18,Thai Nguyen-Song Cong,Song Cong,25.79,25.79,25.79,94.0,26.88,10000.0,0.0,100.0,1.22,1.27,137.0,1004.0,0,804,Clouds,overcast clouds,04n
+2025-06-30 21:42:14,Thai Nguyen-Song Cong,Song Cong,25.79,25.79,25.79,94.0,26.88,10000.0,0.0,100.0,1.22,1.27,137.0,1004.0,0,804,Clouds,overcast clouds,04n
+2025-06-30 21:44:08,Thai Nguyen-Song Cong,Song Cong,25.79,25.79,25.79,94.0,26.88,10000.0,0.0,100.0,1.22,1.27,137.0,1004.0,0,804,Clouds,overcast clouds,04n
+2025-06-30 21:46:03,Thai Nguyen-Song Cong,Song Cong,25.79,25.79,25.79,94.0,26.88,10000.0,0.0,100.0,1.22,1.27,137.0,1004.0,0,804,Clouds,overcast clouds,04n
+2025-06-30 21:47:57,Thai Nguyen-Song Cong,Song Cong,25.79,25.79,25.79,94.0,26.88,10000.0,0.0,100.0,1.22,1.27,137.0,1004.0,0,804,Clouds,overcast clouds,04n
+2025-06-30 21:49:52,Thai Nguyen-Song Cong,Song Cong,25.86,25.86,25.86,91.0,26.88,10000.0,0.0,100.0,1.22,1.27,137.0,1004.0,0,804,Clouds,overcast clouds,04n
+2025-06-30 21:51:46,Thai Nguyen-Song Cong,Song Cong,25.86,25.86,25.86,91.0,26.88,10000.0,0.0,100.0,1.22,1.27,137.0,1004.0,0,804,Clouds,overcast clouds,04n
+2025-06-30 21:53:41,Thai Nguyen-Song Cong,Song Cong,25.86,25.86,25.86,91.0,26.88,10000.0,0.0,100.0,1.22,1.27,137.0,1004.0,0,804,Clouds,overcast clouds,04n
+2025-06-30 21:55:35,Thai Nguyen-Song Cong,Song Cong,25.86,25.86,25.86,91.0,26.88,10000.0,0.0,100.0,1.22,1.27,137.0,1004.0,0,804,Clouds,overcast clouds,04n
+2025-06-30 21:57:29,Thai Nguyen-Song Cong,Song Cong,25.86,25.86,25.86,91.0,26.88,10000.0,0.0,100.0,1.22,1.27,137.0,1004.0,0,804,Clouds,overcast clouds,04n
+2025-06-30 21:59:23,Thai Nguyen-Song Cong,Song Cong,25.86,25.86,25.86,91.0,26.88,10000.0,0.0,100.0,1.22,1.27,137.0,1004.0,0,804,Clouds,overcast clouds,04n
+2025-06-30 22:01:18,Thai Nguyen-Song Cong,Song Cong,25.91,25.91,25.91,92.0,26.96,10000.0,0.0,100.0,1.22,1.27,137.0,1004.0,0,804,Clouds,overcast clouds,04n
+2025-06-30 22:05:05,Thai Nguyen-Song Cong,Song Cong,25.91,25.91,25.91,92.0,26.96,10000.0,0.0,100.0,1.22,1.27,137.0,1004.0,0,804,Clouds,overcast clouds,04n
+2025-06-30 22:07:00,Thai Nguyen-Song Cong,Song Cong,25.91,25.91,25.91,92.0,26.96,10000.0,0.0,100.0,1.22,1.27,137.0,1004.0,0,804,Clouds,overcast clouds,04n
+2025-06-30 22:08:55,Thai Nguyen-Song Cong,Song Cong,25.91,25.91,25.91,92.0,26.96,10000.0,0.0,100.0,1.22,1.27,137.0,1004.0,0,804,Clouds,overcast clouds,04n
+2025-06-30 22:10:50,Thai Nguyen-Song Cong,Song Cong,25.91,25.91,25.91,92.0,26.96,10000.0,0.0,100.0,1.22,1.27,137.0,1004.0,0,804,Clouds,overcast clouds,04n
+2025-06-30 22:12:44,Thai Nguyen-Song Cong,Song Cong,25.91,25.91,25.91,92.0,26.96,10000.0,0.0,100.0,1.22,1.27,137.0,1004.0,0,804,Clouds,overcast clouds,04n
+2025-06-30 22:14:38,Thai Nguyen-Song Cong,Song Cong,25.91,25.91,25.91,92.0,26.96,10000.0,0.0,100.0,1.22,1.27,137.0,1004.0,0,804,Clouds,overcast clouds,04n
+2025-06-30 22:16:33,Thai Nguyen-Song Cong,Song Cong,25.91,25.91,25.91,92.0,26.96,10000.0,0.0,100.0,1.22,1.27,137.0,1004.0,0,804,Clouds,overcast clouds,04n
+2025-06-30 22:18:27,Thai Nguyen-Song Cong,Song Cong,25.91,25.91,25.91,92.0,26.96,10000.0,0.0,100.0,1.22,1.27,137.0,1004.0,0,804,Clouds,overcast clouds,04n
+2025-06-30 22:20:23,Thai Nguyen-Song Cong,Song Cong,25.91,25.91,25.91,92.0,26.96,10000.0,0.0,100.0,1.22,1.27,137.0,1004.0,0,804,Clouds,overcast clouds,04n
+2025-06-30 22:22:18,Thai Nguyen-Song Cong,Song Cong,25.91,25.91,25.91,92.0,26.96,10000.0,0.0,100.0,1.22,1.27,137.0,1004.0,0,804,Clouds,overcast clouds,04n
+2025-06-30 22:24:13,Thai Nguyen-Song Cong,Song Cong,25.91,25.91,25.91,92.0,26.96,10000.0,0.0,100.0,1.22,1.27,137.0,1004.0,0,804,Clouds,overcast clouds,04n
+2025-06-30 22:26:07,Thai Nguyen-Song Cong,Song Cong,25.91,25.91,25.91,92.0,26.96,10000.0,0.0,100.0,1.22,1.27,137.0,1004.0,0,804,Clouds,overcast clouds,04n
+2025-06-30 22:28:02,Thai Nguyen-Song Cong,Song Cong,25.91,25.91,25.91,92.0,26.96,10000.0,0.0,100.0,1.22,1.27,137.0,1004.0,0,804,Clouds,overcast clouds,04n
+2025-06-30 22:29:57,Thai Nguyen-Song Cong,Song Cong,25.91,25.91,25.91,92.0,26.96,10000.0,0.0,100.0,1.22,1.27,137.0,1004.0,0,804,Clouds,overcast clouds,04n
+2025-06-30 22:31:51,Thai Nguyen-Song Cong,Song Cong,25.91,25.91,25.91,92.0,26.96,10000.0,0.0,100.0,1.22,1.27,137.0,1004.0,0,804,Clouds,overcast clouds,04n
+2025-06-30 22:33:45,Thai Nguyen-Song Cong,Song Cong,25.91,25.91,25.91,92.0,26.96,10000.0,0.0,100.0,1.22,1.27,137.0,1004.0,0,804,Clouds,overcast clouds,04n
+2025-06-30 22:35:39,Thai Nguyen-Song Cong,Song Cong,25.62,25.62,25.62,95.0,26.72,10000.0,0.0,100.0,1.18,1.21,153.0,1004.0,0,804,Clouds,overcast clouds,04n
+2025-06-30 22:37:34,Thai Nguyen-Song Cong,Song Cong,25.62,25.62,25.62,95.0,26.72,10000.0,0.0,100.0,1.18,1.21,153.0,1004.0,0,804,Clouds,overcast clouds,04n
+2025-06-30 22:39:28,Thai Nguyen-Song Cong,Song Cong,25.62,25.62,25.62,95.0,26.72,10000.0,0.0,100.0,1.18,1.21,153.0,1004.0,0,804,Clouds,overcast clouds,04n
+2025-06-30 22:41:23,Thai Nguyen-Song Cong,Song Cong,25.62,25.62,25.62,95.0,26.72,10000.0,0.0,100.0,1.18,1.21,153.0,1004.0,0,804,Clouds,overcast clouds,04n
+2025-06-30 22:43:18,Thai Nguyen-Song Cong,Song Cong,25.62,25.62,25.62,95.0,26.72,10000.0,0.0,100.0,1.18,1.21,153.0,1004.0,0,804,Clouds,overcast clouds,04n
+2025-06-30 22:45:14,Thai Nguyen-Song Cong,Song Cong,25.62,25.62,25.62,95.0,26.72,10000.0,0.0,100.0,1.18,1.21,153.0,1004.0,0,804,Clouds,overcast clouds,04n
+2025-06-30 22:47:08,Thai Nguyen-Song Cong,Song Cong,25.61,25.61,25.61,92.0,26.63,10000.0,0.0,100.0,1.18,1.21,153.0,1004.0,0,804,Clouds,overcast clouds,04n
