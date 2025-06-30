@@ -283,3 +283,251 @@ time,province,city,temperature,temp_min,temp_max,humidity,feels_like,visibility,
 2025-06-30 08:59:35,Vinh Phuc-Phuc Yen,Phuc Yen,30.01,30.01,30.01,84.0,37.01,10000.0,0.32,75.0,4.12,0.0,110.0,1002.0,1,500,Rain,light rain,10d
 2025-06-30 09:01:35,Vinh Phuc-Phuc Yen,Phuc Yen,30.01,30.01,30.01,84.0,37.01,10000.0,0.65,75.0,4.12,0.0,110.0,1002.0,1,500,Rain,light rain,10d
 2025-06-30 09:03:35,Vinh Phuc-Phuc Yen,Phuc Yen,30.01,30.01,30.01,84.0,37.01,10000.0,0.37,75.0,4.12,0.0,110.0,1002.0,1,500,Rain,light rain,10d
+2025-06-30 09:05:10,Vinh Phuc-Phuc Yen,Phuc Yen,30.01,30.01,30.01,84.0,37.01,10000.0,0.37,75.0,4.12,0.0,110.0,1002.0,1,500,Rain,light rain,10d
+2025-06-30 09:07:10,Vinh Phuc-Phuc Yen,Phuc Yen,30.01,30.01,30.01,84.0,37.01,10000.0,0.37,75.0,4.12,0.0,110.0,1002.0,1,500,Rain,light rain,10d
+2025-06-30 09:09:12,Vinh Phuc-Phuc Yen,Phuc Yen,30.01,30.01,30.01,84.0,37.01,10000.0,0.37,75.0,4.12,0.0,110.0,1002.0,1,500,Rain,light rain,10d
+2025-06-30 09:11:14,Vinh Phuc-Phuc Yen,Phuc Yen,30.01,30.01,30.01,84.0,37.01,10000.0,0.37,75.0,4.12,0.0,110.0,1002.0,1,500,Rain,light rain,10d
+2025-06-30 09:13:16,Vinh Phuc-Phuc Yen,Phuc Yen,30.01,30.01,30.01,84.0,37.01,10000.0,0.37,75.0,4.12,0.0,110.0,1002.0,1,500,Rain,light rain,10d
+2025-06-30 09:15:18,Vinh Phuc-Phuc Yen,Phuc Yen,30.01,30.01,30.01,84.0,37.01,10000.0,0.37,75.0,4.12,0.0,110.0,1002.0,1,500,Rain,light rain,10d
+2025-06-30 09:17:20,Vinh Phuc-Phuc Yen,Phuc Yen,30.01,30.01,30.01,84.0,37.01,10000.0,0.32,75.0,4.12,0.0,120.0,1002.0,1,500,Rain,light rain,10d
+2025-06-30 09:19:22,Vinh Phuc-Phuc Yen,Phuc Yen,30.01,30.01,30.01,84.0,37.01,10000.0,0.32,75.0,4.12,0.0,120.0,1002.0,1,500,Rain,light rain,10d
+2025-06-30 09:21:24,Vinh Phuc-Phuc Yen,Phuc Yen,30.01,30.01,30.01,84.0,37.01,10000.0,0.12,75.0,4.12,0.0,120.0,1002.0,1,500,Rain,light rain,10d
+2025-06-30 09:23:27,Vinh Phuc-Phuc Yen,Phuc Yen,30.01,30.01,30.01,84.0,37.01,10000.0,0.12,75.0,4.12,0.0,120.0,1002.0,1,500,Rain,light rain,10d
+2025-06-30 09:25:31,Vinh Phuc-Phuc Yen,Phuc Yen,30.01,30.01,30.01,84.0,37.01,10000.0,0.13,75.0,4.12,0.0,120.0,1002.0,1,500,Rain,light rain,10d
+2025-06-30 09:27:31,Vinh Phuc-Phuc Yen,Phuc Yen,30.01,30.01,30.01,84.0,37.01,10000.0,0.13,75.0,4.12,0.0,120.0,1002.0,1,500,Rain,light rain,10d
+2025-06-30 09:29:51,Vinh Phuc-Phuc Yen,Phuc Yen,30.01,30.01,30.01,84.0,37.01,10000.0,0.13,75.0,4.12,0.0,120.0,1002.0,1,500,Rain,light rain,10d
+2025-06-30 09:31:52,Vinh Phuc-Phuc Yen,Phuc Yen,30.01,30.01,30.01,84.0,37.01,10000.0,0.13,75.0,4.12,0.0,120.0,1002.0,1,500,Rain,light rain,10d
+2025-06-30 09:33:53,Vinh Phuc-Phuc Yen,Phuc Yen,30.01,30.01,30.01,84.0,37.01,10000.0,0.15,75.0,4.12,0.0,120.0,1002.0,1,500,Rain,light rain,10d
+2025-06-30 09:35:54,Vinh Phuc-Phuc Yen,Phuc Yen,30.01,30.01,30.01,84.0,37.01,10000.0,0.15,75.0,4.12,0.0,120.0,1002.0,1,500,Rain,light rain,10d
+2025-06-30 09:37:55,Vinh Phuc-Phuc Yen,Phuc Yen,30.01,30.01,30.01,84.0,37.01,10000.0,0.15,75.0,4.12,0.0,120.0,1002.0,1,500,Rain,light rain,10d
+2025-06-30 09:39:57,Vinh Phuc-Phuc Yen,Phuc Yen,30.01,30.01,30.01,84.0,37.01,10000.0,0.15,75.0,4.12,0.0,120.0,1002.0,1,500,Rain,light rain,10d
+2025-06-30 09:41:59,Vinh Phuc-Phuc Yen,Phuc Yen,30.01,30.01,30.01,84.0,37.01,10000.0,0.15,75.0,4.12,0.0,120.0,1002.0,1,500,Rain,light rain,10d
+2025-06-30 09:44:00,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,75.0,4.12,0.0,120.0,1002.0,1,803,Clouds,broken clouds,04d
+2025-06-30 09:46:00,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,75.0,4.12,0.0,120.0,1002.0,1,803,Clouds,broken clouds,04d
+2025-06-30 09:48:02,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,75.0,4.12,0.0,120.0,1002.0,1,803,Clouds,broken clouds,04d
+2025-06-30 09:50:04,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,75.0,4.12,0.0,120.0,1002.0,1,803,Clouds,broken clouds,04d
+2025-06-30 09:52:06,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,75.0,4.12,0.0,120.0,1002.0,1,803,Clouds,broken clouds,04d
+2025-06-30 09:54:08,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,75.0,4.12,0.0,120.0,1002.0,1,803,Clouds,broken clouds,04d
+2025-06-30 09:56:12,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,75.0,4.12,0.0,120.0,1002.0,1,803,Clouds,broken clouds,04d
+2025-06-30 09:58:13,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,75.0,4.12,0.0,120.0,1002.0,1,803,Clouds,broken clouds,04d
+2025-06-30 10:00:15,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,75.0,4.12,0.0,120.0,1002.0,1,803,Clouds,broken clouds,04d
+2025-06-30 10:02:17,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,75.0,4.12,0.0,120.0,1002.0,1,803,Clouds,broken clouds,04d
+2025-06-30 10:04:18,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,75.0,4.12,0.0,120.0,1002.0,1,803,Clouds,broken clouds,04d
+2025-06-30 10:06:19,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,75.0,4.12,0.0,120.0,1002.0,1,803,Clouds,broken clouds,04d
+2025-06-30 10:08:20,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,75.0,4.12,0.0,120.0,1002.0,1,803,Clouds,broken clouds,04d
+2025-06-30 10:10:21,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,75.0,4.12,0.0,120.0,1002.0,1,803,Clouds,broken clouds,04d
+2025-06-30 10:12:22,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,75.0,4.12,0.0,120.0,1002.0,1,803,Clouds,broken clouds,04d
+2025-06-30 10:14:25,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,75.0,4.12,0.0,120.0,1002.0,1,803,Clouds,broken clouds,04d
+2025-06-30 10:16:27,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,75.0,3.6,0.0,150.0,1002.0,1,803,Clouds,broken clouds,04d
+2025-06-30 10:18:28,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,75.0,3.6,0.0,150.0,1002.0,1,803,Clouds,broken clouds,04d
+2025-06-30 10:20:30,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,75.0,3.6,0.0,150.0,1002.0,1,803,Clouds,broken clouds,04d
+2025-06-30 10:22:31,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,75.0,3.6,0.0,150.0,1002.0,1,803,Clouds,broken clouds,04d
+2025-06-30 10:24:32,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,75.0,3.6,0.0,150.0,1002.0,1,803,Clouds,broken clouds,04d
+2025-06-30 10:26:33,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,75.0,3.6,0.0,150.0,1002.0,1,803,Clouds,broken clouds,04d
+2025-06-30 10:28:33,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,75.0,3.6,0.0,150.0,1002.0,1,803,Clouds,broken clouds,04d
+2025-06-30 10:30:33,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,75.0,3.6,0.0,150.0,1002.0,1,803,Clouds,broken clouds,04d
+2025-06-30 10:32:35,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,75.0,3.6,0.0,150.0,1002.0,1,803,Clouds,broken clouds,04d
+2025-06-30 10:34:36,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,75.0,3.6,0.0,150.0,1002.0,1,803,Clouds,broken clouds,04d
+2025-06-30 10:36:36,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,75.0,3.6,0.0,150.0,1002.0,1,803,Clouds,broken clouds,04d
+2025-06-30 10:38:36,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,75.0,3.6,0.0,150.0,1002.0,1,803,Clouds,broken clouds,04d
+2025-06-30 10:40:37,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,75.0,3.6,0.0,150.0,1002.0,1,803,Clouds,broken clouds,04d
+2025-06-30 10:42:38,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,75.0,3.6,0.0,150.0,1002.0,1,803,Clouds,broken clouds,04d
+2025-06-30 10:44:39,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,75.0,3.6,0.0,150.0,1002.0,1,803,Clouds,broken clouds,04d
+2025-06-30 10:46:41,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,75.0,3.6,0.0,150.0,1002.0,1,803,Clouds,broken clouds,04d
+2025-06-30 10:48:42,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,75.0,3.6,0.0,150.0,1002.0,1,803,Clouds,broken clouds,04d
+2025-06-30 10:50:44,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,75.0,3.6,0.0,150.0,1002.0,1,803,Clouds,broken clouds,04d
+2025-06-30 10:52:47,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,40.0,3.09,0.0,130.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 10:54:48,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,40.0,3.09,0.0,130.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 10:56:52,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,40.0,3.09,0.0,130.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 10:58:53,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,40.0,3.09,0.0,130.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 11:00:55,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,40.0,3.09,0.0,130.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 11:02:58,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,40.0,3.09,0.0,130.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 11:05:00,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,40.0,3.09,0.0,130.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 11:07:02,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,40.0,3.09,0.0,130.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 11:09:05,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,40.0,3.09,0.0,130.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 11:11:08,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,40.0,3.09,0.0,130.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 11:13:11,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,40.0,3.09,0.0,130.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 11:15:15,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,40.0,3.09,0.0,130.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 11:17:17,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,40.0,3.09,0.0,130.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 11:19:19,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,40.0,3.09,0.0,130.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 11:21:22,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,40.0,3.09,0.0,130.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 11:23:25,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,40.0,3.09,0.0,130.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 11:25:28,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,40.0,4.12,0.0,110.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 11:27:31,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,40.0,4.12,0.0,110.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 11:29:33,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,40.0,4.12,0.0,110.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 11:31:36,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,40.0,4.12,0.0,110.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 11:33:38,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,40.0,4.12,0.0,110.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 11:35:40,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,40.0,4.12,0.0,110.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 11:37:43,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,40.0,4.12,0.0,110.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 11:39:45,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,40.0,4.12,0.0,110.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 11:41:47,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,40.0,4.12,0.0,110.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 11:43:49,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,40.0,4.12,0.0,110.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 11:45:50,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,40.0,4.12,0.0,110.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 11:47:52,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,40.0,4.12,0.0,110.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 11:49:53,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,40.0,4.12,0.0,110.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 11:51:55,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,40.0,4.12,0.0,110.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 11:53:57,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,40.0,4.12,0.0,110.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 11:56:01,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,40.0,4.12,0.0,110.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 11:58:05,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,40.0,4.12,0.0,110.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 12:00:08,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,40.0,4.12,0.0,110.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 12:02:14,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,40.0,4.12,0.0,110.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 12:04:15,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,40.0,4.12,0.0,110.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 12:06:17,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,40.0,4.12,0.0,110.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 12:08:18,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,40.0,4.12,0.0,110.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 12:10:22,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,40.0,4.12,0.0,110.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 12:12:25,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,40.0,4.12,0.0,110.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 12:14:28,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,40.0,4.12,0.0,110.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 12:16:32,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,40.0,4.12,0.0,110.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 12:18:35,Vinh Phuc-Phuc Yen,Phuc Yen,31.01,31.01,31.01,79.0,38.01,10000.0,0.0,40.0,4.12,0.0,110.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 12:20:40,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,40.0,4.12,0.0,110.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 12:22:42,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,40.0,4.12,0.0,110.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 12:24:44,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,40.0,4.12,0.0,110.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 12:26:46,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,40.0,4.12,0.0,110.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 12:28:48,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,40.0,4.12,0.0,110.0,1002.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 12:30:49,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,40.0,4.12,0.0,110.0,1001.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 12:32:50,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,40.0,4.12,0.0,110.0,1001.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 12:34:51,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,40.0,4.12,0.0,110.0,1001.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 12:36:52,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,40.0,4.12,0.0,110.0,1001.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 12:38:52,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,40.0,4.12,0.0,110.0,1001.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 12:40:53,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,40.0,4.12,0.0,110.0,1001.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 12:42:55,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,40.0,4.12,0.0,110.0,1001.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 12:44:56,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,79.0,39.01,10000.0,0.0,40.0,4.12,0.0,90.0,1001.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 12:46:56,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,79.0,39.01,10000.0,0.0,40.0,4.12,0.0,90.0,1001.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 12:48:56,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,79.0,39.01,10000.0,0.0,40.0,4.12,0.0,90.0,1001.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 12:50:56,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,79.0,39.01,10000.0,0.0,40.0,4.12,0.0,90.0,1001.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 12:52:56,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,79.0,39.01,10000.0,0.0,40.0,4.12,0.0,90.0,1001.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 12:54:57,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,79.0,39.01,10000.0,0.0,40.0,4.12,0.0,90.0,1001.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 12:56:57,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,79.0,39.01,10000.0,0.0,40.0,4.12,0.0,90.0,1001.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 12:58:57,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,79.0,39.01,10000.0,0.0,40.0,4.12,0.0,90.0,1001.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 13:00:57,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,79.0,39.01,10000.0,0.0,40.0,4.12,0.0,90.0,1001.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 13:02:57,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,79.0,39.01,10000.0,0.0,40.0,4.12,0.0,90.0,1001.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 13:05:00,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,79.0,39.01,10000.0,0.0,40.0,4.12,0.0,90.0,1001.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 13:07:03,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,79.0,39.01,10000.0,0.0,40.0,4.12,0.0,90.0,1001.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 13:09:06,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,79.0,39.01,10000.0,0.0,40.0,4.12,0.0,90.0,1001.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 13:11:10,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,79.0,39.01,10000.0,0.0,40.0,4.12,0.0,90.0,1001.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 13:13:13,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,79.0,39.01,10000.0,0.0,40.0,4.12,0.0,90.0,1001.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 13:15:16,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,79.0,39.01,10000.0,0.0,40.0,4.12,0.0,90.0,1001.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 13:17:18,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,75.0,4.63,0.0,110.0,1001.0,1,803,Clouds,broken clouds,04d
+2025-06-30 13:19:24,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,75.0,4.63,0.0,110.0,1001.0,1,803,Clouds,broken clouds,04d
+2025-06-30 13:21:28,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,79.0,39.01,10000.0,0.0,40.0,4.12,0.0,90.0,1001.0,1,802,Clouds,scattered clouds,03d
+2025-06-30 13:23:31,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,75.0,4.63,0.0,110.0,1001.0,1,803,Clouds,broken clouds,04d
+2025-06-30 13:25:34,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,75.0,4.63,0.0,110.0,1001.0,1,803,Clouds,broken clouds,04d
+2025-06-30 13:27:35,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,75.0,4.63,0.0,110.0,1001.0,1,803,Clouds,broken clouds,04d
+2025-06-30 13:29:37,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,75.0,4.63,0.0,110.0,1001.0,1,803,Clouds,broken clouds,04d
+2025-06-30 13:31:39,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,75.0,4.63,0.0,110.0,1001.0,1,803,Clouds,broken clouds,04d
+2025-06-30 13:33:42,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,75.0,4.63,0.0,110.0,1001.0,1,803,Clouds,broken clouds,04d
+2025-06-30 13:35:53,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,75.0,4.63,0.0,110.0,1001.0,1,803,Clouds,broken clouds,04d
+2025-06-30 13:38:04,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,75.0,4.63,0.0,110.0,1001.0,1,803,Clouds,broken clouds,04d
+2025-06-30 13:40:08,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,75.0,4.63,0.0,110.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 13:42:13,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,75.0,4.63,0.0,110.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 13:44:14,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,75.0,4.63,0.0,110.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 13:46:16,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.0,75.0,4.63,0.0,140.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 13:48:18,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,74.0,39.01,10000.0,0.0,75.0,4.63,0.0,110.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 13:50:21,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.0,75.0,4.63,0.0,140.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 13:52:26,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.0,75.0,4.63,0.0,140.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 13:54:36,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.0,75.0,4.63,0.0,140.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 13:56:43,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.1,75.0,4.63,0.0,140.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 13:58:44,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.1,75.0,4.63,0.0,140.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 14:00:46,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.15,75.0,4.63,0.0,140.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 14:02:48,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.15,75.0,4.63,0.0,140.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 14:04:50,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.15,75.0,4.63,0.0,140.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 14:06:52,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.15,75.0,4.63,0.0,140.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 14:09:04,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.18,75.0,4.63,0.0,140.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 14:11:07,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.18,75.0,4.63,0.0,140.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 14:13:13,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.18,75.0,4.63,0.0,140.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 14:15:15,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.18,75.0,4.63,0.0,140.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 14:17:17,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.18,75.0,4.63,0.0,140.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 14:19:20,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,70.0,39.01,10000.0,0.12,75.0,4.12,0.0,120.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 14:21:21,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,70.0,39.01,10000.0,0.12,75.0,4.12,0.0,120.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 14:23:31,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,70.0,39.01,10000.0,0.12,75.0,4.12,0.0,120.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 14:25:52,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,70.0,39.01,10000.0,0.12,75.0,4.12,0.0,120.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 14:28:00,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,70.0,39.01,10000.0,0.12,75.0,4.12,0.0,120.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 14:30:01,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,70.0,39.01,10000.0,0.12,75.0,4.12,0.0,120.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 14:32:04,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,70.0,39.01,10000.0,0.0,75.0,4.12,0.0,120.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 14:34:06,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,70.0,39.01,10000.0,0.0,75.0,4.12,0.0,120.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 14:36:07,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,70.0,39.01,10000.0,0.0,75.0,4.12,0.0,120.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 14:38:10,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,70.0,39.01,10000.0,0.0,75.0,4.12,0.0,120.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 14:40:14,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,70.0,39.01,10000.0,0.0,75.0,4.12,0.0,120.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 14:42:16,Vinh Phuc-Phuc Yen,Phuc Yen,32.01,32.01,32.01,70.0,39.01,10000.0,0.0,75.0,4.12,0.0,120.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 14:44:17,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.0,75.0,4.12,0.0,150.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 14:46:18,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.0,75.0,4.12,0.0,150.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 14:48:18,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.0,75.0,4.12,0.0,150.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 14:50:20,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.0,75.0,4.12,0.0,150.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 14:52:20,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.0,75.0,4.12,0.0,150.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 14:54:21,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.0,75.0,4.12,0.0,150.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 14:56:21,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.0,75.0,4.12,0.0,150.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 14:58:22,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.0,75.0,4.12,0.0,150.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 15:00:23,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.0,75.0,4.12,0.0,150.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 15:02:24,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.0,75.0,4.12,0.0,150.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 15:04:26,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.0,75.0,4.12,0.0,150.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 15:06:30,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.0,75.0,4.12,0.0,150.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 15:08:32,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.0,75.0,4.12,0.0,150.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 15:10:34,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.0,75.0,4.12,0.0,150.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 15:12:38,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.0,75.0,4.12,0.0,150.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 15:14:44,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.0,75.0,4.12,0.0,150.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 15:16:46,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.0,75.0,4.12,0.0,150.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 15:18:48,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.0,75.0,4.12,0.0,150.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 15:20:52,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.0,75.0,4.12,0.0,150.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 15:22:55,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.0,75.0,4.12,0.0,150.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 15:24:58,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.0,75.0,4.12,0.0,150.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 15:27:14,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.0,75.0,4.12,0.0,150.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 15:29:18,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.0,75.0,4.12,0.0,150.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 15:31:23,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.0,75.0,4.12,0.0,150.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 15:33:26,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.0,75.0,4.12,0.0,150.0,999.0,1,803,Clouds,broken clouds,04d
+2025-06-30 15:35:29,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.0,75.0,4.12,0.0,150.0,999.0,1,803,Clouds,broken clouds,04d
+2025-06-30 15:37:31,Vinh Phuc-Phuc Yen,Phuc Yen,33.01,33.01,33.01,66.0,40.01,10000.0,0.0,75.0,4.12,0.0,150.0,1000.0,1,803,Clouds,broken clouds,04d
+2025-06-30 15:39:34,Vinh Phuc-Phuc Yen,Phuc Yen,28.61,28.61,28.61,82.0,34.07,10000.0,4.86,100.0,3.33,6.69,89.0,999.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 15:41:40,Vinh Phuc-Phuc Yen,Phuc Yen,28.61,28.61,28.61,82.0,34.07,10000.0,5.16,100.0,3.33,6.69,89.0,999.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 15:43:44,Vinh Phuc-Phuc Yen,Phuc Yen,28.61,28.61,28.61,82.0,34.07,10000.0,5.16,100.0,3.33,6.69,89.0,999.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 15:45:46,Vinh Phuc-Phuc Yen,Phuc Yen,28.61,28.61,28.61,82.0,34.07,10000.0,5.16,100.0,3.33,6.69,89.0,999.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 15:47:47,Vinh Phuc-Phuc Yen,Phuc Yen,28.61,28.61,28.61,82.0,34.07,10000.0,5.16,100.0,3.33,6.69,89.0,999.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 15:49:49,Vinh Phuc-Phuc Yen,Phuc Yen,28.55,28.55,28.55,82.0,33.9,10000.0,8.65,100.0,3.33,6.69,89.0,999.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 15:51:51,Vinh Phuc-Phuc Yen,Phuc Yen,28.55,28.55,28.55,82.0,33.9,10000.0,8.65,100.0,3.33,6.69,89.0,999.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 15:53:58,Vinh Phuc-Phuc Yen,Phuc Yen,28.55,28.55,28.55,82.0,33.9,10000.0,6.68,100.0,3.33,6.69,89.0,999.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 15:56:15,Vinh Phuc-Phuc Yen,Phuc Yen,28.55,28.55,28.55,82.0,33.9,10000.0,8.91,100.0,3.33,6.69,89.0,999.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 15:58:18,Vinh Phuc-Phuc Yen,Phuc Yen,28.55,28.55,28.55,82.0,33.9,10000.0,8.91,100.0,3.33,6.69,89.0,999.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:00:21,Vinh Phuc-Phuc Yen,Phuc Yen,28.55,28.55,28.55,82.0,33.9,10000.0,8.91,100.0,3.33,6.69,89.0,999.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:02:27,Vinh Phuc-Phuc Yen,Phuc Yen,28.55,28.55,28.55,82.0,33.9,10000.0,8.91,100.0,3.33,6.69,89.0,999.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:04:32,Vinh Phuc-Phuc Yen,Phuc Yen,28.58,28.58,28.58,82.0,33.98,10000.0,9.99,100.0,3.33,6.69,89.0,999.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:06:42,Vinh Phuc-Phuc Yen,Phuc Yen,28.58,28.58,28.58,82.0,33.98,10000.0,9.99,100.0,3.33,6.69,89.0,999.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:08:43,Vinh Phuc-Phuc Yen,Phuc Yen,28.58,28.58,28.58,82.0,33.98,10000.0,9.99,100.0,3.33,6.69,89.0,999.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:10:51,Vinh Phuc-Phuc Yen,Phuc Yen,28.58,28.58,28.58,82.0,33.98,10000.0,6.48,100.0,3.33,6.69,89.0,999.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:12:52,Vinh Phuc-Phuc Yen,Phuc Yen,28.58,28.58,28.58,82.0,33.98,10000.0,6.48,100.0,3.33,6.69,89.0,999.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:14:52,Vinh Phuc-Phuc Yen,Phuc Yen,28.58,28.58,28.58,82.0,33.98,10000.0,6.48,100.0,3.33,6.69,89.0,999.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:16:54,Vinh Phuc-Phuc Yen,Phuc Yen,28.58,28.58,28.58,82.0,33.98,10000.0,6.48,100.0,3.33,6.69,89.0,999.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:18:56,Vinh Phuc-Phuc Yen,Phuc Yen,28.58,28.58,28.58,82.0,33.98,10000.0,6.48,100.0,3.33,6.69,89.0,999.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:20:57,Vinh Phuc-Phuc Yen,Phuc Yen,28.57,28.57,28.57,82.0,33.96,10000.0,5.62,100.0,3.33,6.69,89.0,999.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:23:01,Vinh Phuc-Phuc Yen,Phuc Yen,28.57,28.57,28.57,82.0,33.96,10000.0,5.62,100.0,3.33,6.69,89.0,999.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:25:04,Vinh Phuc-Phuc Yen,Phuc Yen,28.57,28.57,28.57,82.0,33.96,10000.0,5.62,100.0,3.33,6.69,89.0,999.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:27:07,Vinh Phuc-Phuc Yen,Phuc Yen,28.57,28.57,28.57,82.0,33.96,10000.0,6.48,100.0,3.33,6.69,89.0,999.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:29:08,Vinh Phuc-Phuc Yen,Phuc Yen,28.57,28.57,28.57,82.0,33.96,10000.0,6.48,100.0,3.33,6.69,89.0,999.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:31:09,Vinh Phuc-Phuc Yen,Phuc Yen,28.57,28.57,28.57,82.0,33.96,10000.0,6.48,100.0,3.33,6.69,89.0,999.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:33:17,Vinh Phuc-Phuc Yen,Phuc Yen,28.57,28.57,28.57,82.0,33.96,10000.0,6.48,100.0,3.33,6.69,89.0,999.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:35:26,Vinh Phuc-Phuc Yen,Phuc Yen,28.57,28.57,28.57,82.0,33.96,10000.0,6.48,100.0,3.33,6.69,89.0,999.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:37:34,Vinh Phuc-Phuc Yen,Phuc Yen,28.01,28.01,28.01,94.0,34.5,10000.0,8.65,75.0,5.66,0.0,60.0,1000.0,1,200,Thunderstorm,thunderstorm with light rain,11d
+2025-06-30 16:39:36,Vinh Phuc-Phuc Yen,Phuc Yen,28.01,28.01,28.01,94.0,34.5,10000.0,7.49,75.0,5.66,0.0,60.0,1000.0,1,200,Thunderstorm,thunderstorm with light rain,11d
+2025-06-30 16:41:37,Vinh Phuc-Phuc Yen,Phuc Yen,28.01,28.01,28.01,94.0,34.5,10000.0,7.49,75.0,5.66,0.0,60.0,1000.0,1,200,Thunderstorm,thunderstorm with light rain,11d
+2025-06-30 16:43:37,Vinh Phuc-Phuc Yen,Phuc Yen,28.01,28.01,28.01,94.0,34.5,10000.0,7.49,75.0,5.66,0.0,60.0,1000.0,1,200,Thunderstorm,thunderstorm with light rain,11d
+2025-06-30 16:45:38,Vinh Phuc-Phuc Yen,Phuc Yen,28.01,28.01,28.01,94.0,34.5,10000.0,8.65,75.0,5.66,0.0,60.0,1000.0,1,200,Thunderstorm,thunderstorm with light rain,11d
+2025-06-30 16:47:40,Vinh Phuc-Phuc Yen,Phuc Yen,27.01,27.01,27.01,94.0,31.2,10000.0,9.99,100.0,4.12,0.0,60.0,1000.0,1,200,Thunderstorm,thunderstorm with light rain,11d
+2025-06-30 16:49:45,Vinh Phuc-Phuc Yen,Phuc Yen,27.01,27.01,27.01,94.0,31.2,10000.0,8.65,100.0,4.12,0.0,60.0,1000.0,1,200,Thunderstorm,thunderstorm with light rain,11d
+2025-06-30 16:51:47,Vinh Phuc-Phuc Yen,Phuc Yen,27.01,27.01,27.01,94.0,31.2,10000.0,8.65,100.0,4.12,0.0,60.0,1000.0,1,200,Thunderstorm,thunderstorm with light rain,11d
+2025-06-30 16:53:48,Vinh Phuc-Phuc Yen,Phuc Yen,27.01,27.01,27.01,94.0,31.2,10000.0,8.65,100.0,4.12,0.0,60.0,1000.0,1,200,Thunderstorm,thunderstorm with light rain,11d
+2025-06-30 16:55:48,Vinh Phuc-Phuc Yen,Phuc Yen,27.01,27.01,27.01,94.0,31.2,10000.0,8.65,100.0,4.12,0.0,60.0,1000.0,1,200,Thunderstorm,thunderstorm with light rain,11d
+2025-06-30 16:57:49,Vinh Phuc-Phuc Yen,Phuc Yen,27.01,27.01,27.01,94.0,31.2,10000.0,8.65,100.0,4.12,0.0,60.0,1000.0,1,200,Thunderstorm,thunderstorm with light rain,11d
+2025-06-30 16:59:49,Vinh Phuc-Phuc Yen,Phuc Yen,27.01,27.01,27.01,94.0,31.2,10000.0,11.53,100.0,4.12,0.0,60.0,1000.0,1,200,Thunderstorm,thunderstorm with light rain,11d
+2025-06-30 17:01:51,Vinh Phuc-Phuc Yen,Phuc Yen,27.01,27.01,27.01,94.0,31.2,10000.0,11.53,100.0,4.12,0.0,60.0,1000.0,1,200,Thunderstorm,thunderstorm with light rain,11d
+2025-06-30 17:03:53,Vinh Phuc-Phuc Yen,Phuc Yen,27.01,27.01,27.01,94.0,31.2,10000.0,11.53,100.0,4.12,0.0,60.0,1000.0,1,200,Thunderstorm,thunderstorm with light rain,11d
+2025-06-30 17:05:55,Vinh Phuc-Phuc Yen,Phuc Yen,27.01,27.01,27.01,94.0,31.2,10000.0,11.53,100.0,4.12,0.0,60.0,1000.0,1,200,Thunderstorm,thunderstorm with light rain,11d
+2025-06-30 17:07:56,Vinh Phuc-Phuc Yen,Phuc Yen,27.01,27.01,27.01,94.0,31.2,10000.0,11.53,100.0,4.12,0.0,60.0,1000.0,1,200,Thunderstorm,thunderstorm with light rain,11d
+2025-06-30 17:09:59,Vinh Phuc-Phuc Yen,Phuc Yen,27.01,27.01,27.01,94.0,31.2,10000.0,11.53,100.0,4.12,0.0,60.0,1000.0,1,200,Thunderstorm,thunderstorm with light rain,11d
+2025-06-30 17:12:03,Vinh Phuc-Phuc Yen,Phuc Yen,27.01,27.01,27.01,94.0,31.2,10000.0,11.53,100.0,4.12,0.0,60.0,1000.0,1,200,Thunderstorm,thunderstorm with light rain,11d
+2025-06-30 17:14:05,Vinh Phuc-Phuc Yen,Phuc Yen,27.01,27.01,27.01,94.0,31.2,10000.0,11.53,100.0,4.12,0.0,60.0,1000.0,1,200,Thunderstorm,thunderstorm with light rain,11d
+2025-06-30 17:16:15,Vinh Phuc-Phuc Yen,Phuc Yen,27.01,27.01,27.01,94.0,31.2,10000.0,15.38,100.0,4.12,0.0,60.0,1000.0,1,200,Thunderstorm,thunderstorm with light rain,11d
+2025-06-30 17:18:18,Vinh Phuc-Phuc Yen,Phuc Yen,27.01,27.01,27.01,94.0,31.2,10000.0,15.38,100.0,4.12,0.0,60.0,1000.0,1,200,Thunderstorm,thunderstorm with light rain,11d
+2025-06-30 17:20:21,Vinh Phuc-Phuc Yen,Phuc Yen,26.01,26.01,26.01,94.0,26.01,3000.0,15.38,75.0,4.63,0.0,200.0,1000.0,1,202,Thunderstorm,thunderstorm with heavy rain,11d
+2025-06-30 17:22:25,Vinh Phuc-Phuc Yen,Phuc Yen,27.01,27.01,27.01,94.0,31.2,10000.0,15.38,100.0,4.12,0.0,60.0,1000.0,1,200,Thunderstorm,thunderstorm with light rain,11d
+2025-06-30 17:24:28,Vinh Phuc-Phuc Yen,Phuc Yen,26.01,26.01,26.01,94.0,26.01,3000.0,15.38,75.0,4.63,0.0,200.0,1000.0,1,202,Thunderstorm,thunderstorm with heavy rain,11d
+2025-06-30 17:26:32,Vinh Phuc-Phuc Yen,Phuc Yen,26.01,26.01,26.01,94.0,26.01,3000.0,14.14,75.0,4.63,0.0,200.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 17:28:40,Vinh Phuc-Phuc Yen,Phuc Yen,26.01,26.01,26.01,94.0,26.01,3000.0,15.38,75.0,4.63,0.0,200.0,1000.0,1,202,Thunderstorm,thunderstorm with heavy rain,11d
+2025-06-30 17:30:41,Vinh Phuc-Phuc Yen,Phuc Yen,26.01,26.01,26.01,94.0,26.01,3000.0,15.38,75.0,4.63,0.0,200.0,1000.0,1,202,Thunderstorm,thunderstorm with heavy rain,11d

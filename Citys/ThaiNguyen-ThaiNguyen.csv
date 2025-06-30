@@ -283,3 +283,251 @@ time,province,city,temperature,temp_min,temp_max,humidity,feels_like,visibility,
 2025-06-30 08:59:30,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.87,26.87,26.87,89.0,30.27,10000.0,0.0,100.0,1.69,2.72,141.0,1003.0,1,804,Clouds,overcast clouds,04d
 2025-06-30 09:01:30,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.87,26.87,26.87,89.0,30.27,10000.0,0.0,100.0,1.69,2.72,141.0,1003.0,1,804,Clouds,overcast clouds,04d
 2025-06-30 09:03:30,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.87,26.87,26.87,89.0,30.27,10000.0,0.0,100.0,1.69,2.72,141.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 09:05:05,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.87,26.87,26.87,89.0,30.27,10000.0,0.0,100.0,1.69,2.72,141.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 09:07:06,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.9,26.9,26.9,89.0,30.35,10000.0,0.0,100.0,1.69,2.72,141.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 09:09:07,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.9,26.9,26.9,89.0,30.35,10000.0,0.0,100.0,1.69,2.72,141.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 09:11:08,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.9,26.9,26.9,89.0,30.35,10000.0,0.0,100.0,1.69,2.72,141.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 09:13:11,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.9,26.9,26.9,89.0,30.35,10000.0,0.0,100.0,1.69,2.72,141.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 09:15:13,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.9,26.9,26.9,89.0,30.35,10000.0,0.0,100.0,1.69,2.72,141.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 09:17:14,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.89,26.89,26.89,89.0,30.33,10000.0,0.0,100.0,1.69,2.72,141.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 09:19:16,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.89,26.89,26.89,89.0,30.33,10000.0,0.0,100.0,1.69,2.72,141.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 09:21:18,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.89,26.89,26.89,89.0,30.33,10000.0,0.0,100.0,1.69,2.72,141.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 09:23:22,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.89,26.89,26.89,89.0,30.33,10000.0,0.0,100.0,1.69,2.72,141.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 09:25:25,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.89,26.89,26.89,89.0,30.33,10000.0,0.0,100.0,1.69,2.72,141.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 09:27:27,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.89,26.89,26.89,89.0,30.33,10000.0,0.0,100.0,1.69,2.72,141.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 09:29:33,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.89,26.89,26.89,89.0,30.33,10000.0,0.0,100.0,1.69,2.72,141.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 09:31:47,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.89,26.89,26.89,89.0,30.33,10000.0,0.0,100.0,1.69,2.72,141.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 09:33:48,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.88,26.88,26.88,89.0,30.3,10000.0,0.0,100.0,2.37,3.33,147.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 09:35:49,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.88,26.88,26.88,89.0,30.3,10000.0,0.0,100.0,2.37,3.33,147.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 09:37:50,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.88,26.88,26.88,89.0,30.3,10000.0,0.0,100.0,2.37,3.33,147.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 09:39:51,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.88,26.88,26.88,89.0,30.3,10000.0,0.0,100.0,2.37,3.33,147.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 09:41:53,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.88,26.88,26.88,89.0,30.3,10000.0,0.0,100.0,2.37,3.33,147.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 09:43:55,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.88,26.88,26.88,89.0,30.3,10000.0,0.0,100.0,2.37,3.33,147.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 09:45:55,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.88,26.88,26.88,89.0,30.3,10000.0,0.0,100.0,2.37,3.33,147.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 09:47:56,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.88,26.88,26.88,89.0,30.3,10000.0,0.0,100.0,2.37,3.33,147.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 09:49:58,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.88,26.88,26.88,89.0,30.3,10000.0,0.0,100.0,2.37,3.33,147.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 09:52:00,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.88,26.88,26.88,89.0,30.3,10000.0,0.0,100.0,2.37,3.33,147.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 09:54:02,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.88,26.88,26.88,89.0,30.3,10000.0,0.0,100.0,2.37,3.33,147.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 09:56:05,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.88,26.88,26.88,89.0,30.3,10000.0,0.0,100.0,2.37,3.33,147.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 09:58:08,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.88,26.88,26.88,89.0,30.3,10000.0,0.0,100.0,2.37,3.33,147.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 10:00:10,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.88,26.88,26.88,89.0,30.3,10000.0,0.0,100.0,2.37,3.33,147.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 10:02:12,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.88,26.88,26.88,89.0,30.3,10000.0,0.0,100.0,2.37,3.33,147.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 10:04:12,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.88,26.88,26.88,89.0,30.3,10000.0,0.0,100.0,2.37,3.33,147.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 10:06:14,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.88,26.88,26.88,89.0,30.3,10000.0,0.0,100.0,2.37,3.33,147.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 10:08:15,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.88,26.88,26.88,89.0,30.3,10000.0,0.0,100.0,2.37,3.33,147.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 10:10:16,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.91,26.91,26.91,89.0,30.38,10000.0,0.0,100.0,2.37,3.33,147.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 10:12:17,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.91,26.91,26.91,89.0,30.38,10000.0,0.0,100.0,2.37,3.33,147.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 10:14:19,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.91,26.91,26.91,89.0,30.38,10000.0,0.0,100.0,2.37,3.33,147.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 10:16:21,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.9,26.9,26.9,89.0,30.35,10000.0,0.0,100.0,2.37,3.33,147.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 10:18:23,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.9,26.9,26.9,89.0,30.35,10000.0,0.0,100.0,2.37,3.33,147.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 10:20:25,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.9,26.9,26.9,89.0,30.35,10000.0,0.0,100.0,2.37,3.33,147.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 10:22:27,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.9,26.9,26.9,89.0,30.35,10000.0,0.0,100.0,2.37,3.33,147.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 10:24:27,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.9,26.9,26.9,89.0,30.35,10000.0,0.0,100.0,2.37,3.33,147.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 10:26:28,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.9,26.9,26.9,89.0,30.35,10000.0,0.0,100.0,2.37,3.33,147.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 10:28:28,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.9,26.9,26.9,89.0,30.35,10000.0,0.0,100.0,2.37,3.33,147.0,1003.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 10:30:29,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.63,26.63,26.63,90.0,26.63,10000.0,0.0,100.0,2.62,4.06,153.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 10:32:30,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.63,26.63,26.63,90.0,26.63,10000.0,0.0,100.0,2.62,4.06,153.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 10:34:31,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.63,26.63,26.63,90.0,26.63,10000.0,0.0,100.0,2.62,4.06,153.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 10:36:31,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.63,26.63,26.63,90.0,26.63,10000.0,0.0,100.0,2.62,4.06,153.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 10:38:31,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.63,26.63,26.63,90.0,26.63,10000.0,0.0,100.0,2.62,4.06,153.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 10:40:32,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.63,26.63,26.63,90.0,26.63,10000.0,0.0,100.0,2.62,4.06,153.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 10:42:33,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.67,26.67,26.67,90.0,29.81,10000.0,0.0,100.0,2.62,4.06,153.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 10:44:34,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.67,26.67,26.67,90.0,29.81,10000.0,0.0,100.0,2.62,4.06,153.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 10:46:36,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.67,26.67,26.67,90.0,29.81,10000.0,0.0,100.0,2.62,4.06,153.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 10:48:37,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.67,26.67,26.67,90.0,29.81,10000.0,0.0,100.0,2.62,4.06,153.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 10:50:39,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.67,26.67,26.67,90.0,29.81,10000.0,0.0,100.0,2.62,4.06,153.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 10:52:41,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.66,26.66,26.66,90.0,26.66,10000.0,0.0,100.0,2.62,4.06,153.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 10:54:43,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.66,26.66,26.66,90.0,26.66,10000.0,0.0,100.0,2.62,4.06,153.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 10:56:45,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.66,26.66,26.66,90.0,26.66,10000.0,0.0,100.0,2.62,4.06,153.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 10:58:48,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.66,26.66,26.66,90.0,26.66,10000.0,0.0,100.0,2.62,4.06,153.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 11:00:50,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.66,26.66,26.66,90.0,26.66,10000.0,0.0,100.0,2.62,4.06,153.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 11:02:52,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.66,26.66,26.66,90.0,26.66,10000.0,0.0,100.0,2.62,4.06,153.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 11:04:55,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.71,26.71,26.71,90.0,29.92,10000.0,0.0,100.0,2.62,4.06,153.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 11:06:56,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.71,26.71,26.71,90.0,29.92,10000.0,0.0,100.0,2.62,4.06,153.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 11:08:59,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.71,26.71,26.71,90.0,29.92,10000.0,0.0,100.0,2.62,4.06,153.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 11:11:01,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.71,26.71,26.71,90.0,29.92,10000.0,0.0,100.0,2.62,4.06,153.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 11:13:06,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.71,26.71,26.71,90.0,29.92,10000.0,0.0,100.0,2.62,4.06,153.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 11:15:09,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.71,26.71,26.71,90.0,29.92,10000.0,0.0,100.0,2.62,4.06,153.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 11:17:12,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.71,26.71,26.71,90.0,29.92,10000.0,0.0,100.0,2.62,4.06,153.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 11:19:13,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.71,26.71,26.71,90.0,29.92,10000.0,0.0,100.0,2.62,4.06,153.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 11:21:16,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.71,26.71,26.71,90.0,29.92,10000.0,0.0,100.0,2.62,4.06,153.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 11:23:19,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.71,26.71,26.71,90.0,29.92,10000.0,0.0,100.0,2.62,4.06,153.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 11:25:22,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.7,26.7,26.7,90.0,29.89,10000.0,0.0,100.0,2.62,4.06,153.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 11:27:26,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.7,26.7,26.7,90.0,29.89,10000.0,0.0,100.0,2.62,4.06,153.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 11:29:28,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.7,26.7,26.7,90.0,29.89,10000.0,0.0,100.0,2.62,4.06,153.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 11:31:30,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.7,26.7,26.7,90.0,29.89,10000.0,0.0,100.0,2.62,4.06,153.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 11:33:32,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.7,26.7,26.7,90.0,29.89,10000.0,0.0,100.0,2.62,4.06,153.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 11:35:35,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.66,26.66,26.66,90.0,26.66,10000.0,0.0,100.0,2.58,4.47,171.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 11:37:37,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.66,26.66,26.66,90.0,26.66,10000.0,0.0,100.0,2.58,4.47,171.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 11:39:40,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.66,26.66,26.66,90.0,26.66,10000.0,0.0,100.0,2.58,4.47,171.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 11:41:41,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.66,26.66,26.66,90.0,26.66,10000.0,0.0,100.0,2.58,4.47,171.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 11:43:43,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.66,26.66,26.66,90.0,26.66,10000.0,0.0,100.0,2.58,4.47,171.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 11:45:45,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.66,26.66,26.66,90.0,26.66,10000.0,0.0,100.0,2.58,4.47,171.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 11:47:46,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.66,26.66,26.66,90.0,26.66,10000.0,0.0,100.0,2.58,4.47,171.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 11:49:48,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.66,26.66,26.66,90.0,26.66,10000.0,0.0,100.0,2.58,4.47,171.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 11:51:50,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.66,26.66,26.66,90.0,26.66,10000.0,0.0,100.0,2.58,4.47,171.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 11:53:51,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.66,26.66,26.66,90.0,26.66,10000.0,0.0,100.0,2.58,4.47,171.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 11:55:55,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.65,26.65,26.65,90.0,26.65,10000.0,0.0,100.0,2.58,4.47,171.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 11:57:58,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.65,26.65,26.65,90.0,26.65,10000.0,0.0,100.0,2.58,4.47,171.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 12:00:02,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.65,26.65,26.65,90.0,26.65,10000.0,0.0,100.0,2.58,4.47,171.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 12:02:08,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.7,26.7,26.7,90.0,29.89,10000.0,0.0,100.0,2.58,4.47,171.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 12:04:10,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.65,26.65,26.65,90.0,26.65,10000.0,0.0,100.0,2.58,4.47,171.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 12:06:12,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.65,26.65,26.65,90.0,26.65,10000.0,0.0,100.0,2.58,4.47,171.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 12:08:13,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.7,26.7,26.7,90.0,29.89,10000.0,0.0,100.0,2.58,4.47,171.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 12:10:15,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.7,26.7,26.7,90.0,29.89,10000.0,0.0,100.0,2.58,4.47,171.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 12:12:19,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.7,26.7,26.7,90.0,29.89,10000.0,0.0,100.0,2.58,4.47,171.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 12:14:21,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.7,26.7,26.7,90.0,29.89,10000.0,0.0,100.0,2.58,4.47,171.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 12:16:25,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.7,26.7,26.7,90.0,29.89,10000.0,0.0,100.0,2.58,4.47,171.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 12:18:29,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.69,26.69,26.69,90.0,29.87,10000.0,0.0,100.0,2.58,4.47,171.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 12:20:33,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.69,26.69,26.69,90.0,29.87,10000.0,0.0,100.0,2.58,4.47,171.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 12:22:37,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.69,26.69,26.69,90.0,29.87,10000.0,0.0,100.0,2.58,4.47,171.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 12:24:38,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.69,26.69,26.69,90.0,29.87,10000.0,0.0,100.0,2.58,4.47,171.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 12:26:40,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.69,26.69,26.69,90.0,29.87,10000.0,0.0,100.0,2.58,4.47,171.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 12:28:43,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.69,26.69,26.69,90.0,29.87,10000.0,0.0,100.0,2.58,4.47,171.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 12:30:44,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.94,26.94,26.94,85.0,30.07,10000.0,0.0,100.0,2.83,5.13,194.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 12:32:45,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.94,26.94,26.94,85.0,30.07,10000.0,0.0,100.0,2.83,5.13,194.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 12:34:46,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.94,26.94,26.94,85.0,30.07,10000.0,0.0,100.0,2.83,5.13,194.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 12:36:47,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.94,26.94,26.94,85.0,30.07,10000.0,0.0,100.0,2.83,5.13,194.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 12:38:48,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.94,26.94,26.94,85.0,30.07,10000.0,0.0,100.0,2.83,5.13,194.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 12:40:48,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.94,26.94,26.94,85.0,30.07,10000.0,0.0,100.0,2.83,5.13,194.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 12:42:49,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.94,26.94,26.94,85.0,30.07,10000.0,0.0,100.0,2.83,5.13,194.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 12:44:51,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.94,26.94,26.94,85.0,30.07,10000.0,0.12,100.0,2.83,5.13,194.0,1002.0,1,500,Rain,light rain,10d
+2025-06-30 12:46:52,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.94,26.94,26.94,85.0,30.07,10000.0,0.12,100.0,2.83,5.13,194.0,1002.0,1,500,Rain,light rain,10d
+2025-06-30 12:48:52,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.94,26.94,26.94,85.0,30.07,10000.0,0.12,100.0,2.83,5.13,194.0,1002.0,1,500,Rain,light rain,10d
+2025-06-30 12:50:52,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.94,26.94,26.94,85.0,30.07,10000.0,0.0,100.0,2.83,5.13,194.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 12:52:52,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.94,26.94,26.94,85.0,30.07,10000.0,0.0,100.0,2.83,5.13,194.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 12:54:52,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.94,26.94,26.94,85.0,30.07,10000.0,0.0,100.0,2.83,5.13,194.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 12:56:52,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.94,26.94,26.94,85.0,30.07,10000.0,0.0,100.0,2.83,5.13,194.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 12:58:52,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.94,26.94,26.94,85.0,30.07,10000.0,0.0,100.0,2.83,5.13,194.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 13:00:52,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.94,26.94,26.94,85.0,30.07,10000.0,0.0,100.0,2.83,5.13,194.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 13:02:52,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.94,26.94,26.94,85.0,30.07,10000.0,0.0,100.0,2.83,5.13,194.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 13:04:54,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.94,26.94,26.94,85.0,30.07,10000.0,0.0,100.0,3.91,7.31,146.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 13:06:56,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.94,26.94,26.94,85.0,30.07,10000.0,0.0,100.0,3.91,7.31,146.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 13:08:59,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.94,26.94,26.94,85.0,30.07,10000.0,0.0,100.0,3.91,7.31,146.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 13:11:04,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.94,26.94,26.94,85.0,30.07,10000.0,0.0,100.0,3.91,7.31,146.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 13:13:07,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.94,26.94,26.94,85.0,30.07,10000.0,0.0,100.0,3.91,7.31,146.0,1002.0,1,804,Clouds,overcast clouds,04d
+2025-06-30 13:15:10,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.94,26.94,26.94,85.0,30.07,10000.0,0.15,100.0,3.91,7.31,146.0,1002.0,1,500,Rain,light rain,10d
+2025-06-30 13:17:12,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.94,26.94,26.94,85.0,30.07,10000.0,0.15,100.0,3.91,7.31,146.0,1002.0,1,500,Rain,light rain,10d
+2025-06-30 13:19:18,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.94,26.94,26.94,85.0,30.07,10000.0,0.15,100.0,3.91,7.31,146.0,1002.0,1,500,Rain,light rain,10d
+2025-06-30 13:21:22,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.94,26.94,26.94,85.0,30.07,10000.0,0.15,100.0,3.91,7.31,146.0,1002.0,1,500,Rain,light rain,10d
+2025-06-30 13:23:26,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.94,26.94,26.94,85.0,30.07,10000.0,0.15,100.0,3.91,7.31,146.0,1002.0,1,500,Rain,light rain,10d
+2025-06-30 13:25:28,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.94,26.94,26.94,85.0,30.07,10000.0,0.15,100.0,3.91,7.31,146.0,1002.0,1,500,Rain,light rain,10d
+2025-06-30 13:27:30,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.94,26.94,26.94,85.0,30.07,10000.0,0.18,100.0,3.91,7.31,146.0,1002.0,1,500,Rain,light rain,10d
+2025-06-30 13:29:32,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.94,26.94,26.94,85.0,30.07,10000.0,0.18,100.0,3.91,7.31,146.0,1002.0,1,500,Rain,light rain,10d
+2025-06-30 13:31:33,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.94,26.94,26.94,85.0,30.07,10000.0,0.18,100.0,3.91,7.31,146.0,1002.0,1,500,Rain,light rain,10d
+2025-06-30 13:33:37,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.94,26.94,26.94,85.0,30.07,10000.0,0.18,100.0,3.91,7.31,146.0,1002.0,1,500,Rain,light rain,10d
+2025-06-30 13:35:46,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.94,26.94,26.94,85.0,30.07,10000.0,0.18,100.0,3.91,7.31,146.0,1002.0,1,500,Rain,light rain,10d
+2025-06-30 13:37:50,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.94,26.94,26.94,85.0,30.07,10000.0,0.18,100.0,3.91,7.31,146.0,1002.0,1,500,Rain,light rain,10d
+2025-06-30 13:40:02,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.67,27.67,27.67,88.0,32.42,10000.0,0.24,100.0,2.92,6.37,146.0,1001.0,1,500,Rain,light rain,10d
+2025-06-30 13:42:06,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.67,27.67,27.67,88.0,32.42,10000.0,0.24,100.0,2.92,6.37,146.0,1001.0,1,500,Rain,light rain,10d
+2025-06-30 13:44:09,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.67,27.67,27.67,88.0,32.42,10000.0,0.24,100.0,2.92,6.37,146.0,1001.0,1,500,Rain,light rain,10d
+2025-06-30 13:46:10,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.67,27.67,27.67,88.0,32.42,10000.0,0.24,100.0,2.92,6.37,146.0,1001.0,1,500,Rain,light rain,10d
+2025-06-30 13:48:13,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.67,27.67,27.67,88.0,32.42,10000.0,0.24,100.0,2.92,6.37,146.0,1001.0,1,500,Rain,light rain,10d
+2025-06-30 13:50:15,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.66,27.66,27.66,88.0,32.39,10000.0,0.37,100.0,2.92,6.37,146.0,1001.0,1,500,Rain,light rain,10d
+2025-06-30 13:52:19,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.66,27.66,27.66,88.0,32.39,10000.0,0.37,100.0,2.92,6.37,146.0,1001.0,1,500,Rain,light rain,10d
+2025-06-30 13:54:27,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.66,27.66,27.66,88.0,32.39,10000.0,0.37,100.0,2.92,6.37,146.0,1001.0,1,500,Rain,light rain,10d
+2025-06-30 13:56:34,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.66,27.66,27.66,88.0,32.39,10000.0,0.42,100.0,2.92,6.37,146.0,1001.0,1,500,Rain,light rain,10d
+2025-06-30 13:58:39,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.66,27.66,27.66,88.0,32.39,10000.0,0.42,100.0,2.92,6.37,146.0,1001.0,1,500,Rain,light rain,10d
+2025-06-30 14:00:41,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.66,27.66,27.66,88.0,32.39,10000.0,0.37,100.0,2.92,6.37,146.0,1001.0,1,500,Rain,light rain,10d
+2025-06-30 14:02:43,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.72,27.72,27.72,88.0,32.56,10000.0,0.37,100.0,2.92,6.37,146.0,1001.0,1,500,Rain,light rain,10d
+2025-06-30 14:04:45,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.72,27.72,27.72,88.0,32.56,10000.0,0.37,100.0,2.92,6.37,146.0,1001.0,1,500,Rain,light rain,10d
+2025-06-30 14:06:47,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.72,27.72,27.72,88.0,32.56,10000.0,0.37,100.0,2.92,6.37,146.0,1001.0,1,500,Rain,light rain,10d
+2025-06-30 14:08:52,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.72,27.72,27.72,88.0,32.56,10000.0,0.33,100.0,2.92,6.37,146.0,1001.0,1,500,Rain,light rain,10d
+2025-06-30 14:11:00,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.72,27.72,27.72,88.0,32.56,10000.0,0.33,100.0,2.92,6.37,146.0,1001.0,1,500,Rain,light rain,10d
+2025-06-30 14:13:07,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.72,27.72,27.72,88.0,32.56,10000.0,0.27,100.0,2.92,6.37,146.0,1001.0,1,500,Rain,light rain,10d
+2025-06-30 14:15:10,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.72,27.72,27.72,88.0,32.56,10000.0,0.33,100.0,2.92,6.37,146.0,1001.0,1,500,Rain,light rain,10d
+2025-06-30 14:17:12,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.72,27.72,27.72,88.0,32.56,10000.0,0.27,100.0,2.92,6.37,146.0,1001.0,1,500,Rain,light rain,10d
+2025-06-30 14:19:13,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.71,27.71,27.71,88.0,32.54,10000.0,0.42,100.0,2.92,6.37,146.0,1001.0,1,500,Rain,light rain,10d
+2025-06-30 14:21:16,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.71,27.71,27.71,88.0,32.54,10000.0,0.42,100.0,2.92,6.37,146.0,1001.0,1,500,Rain,light rain,10d
+2025-06-30 14:23:24,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.71,27.71,27.71,88.0,32.54,10000.0,0.42,100.0,2.92,6.37,146.0,1001.0,1,500,Rain,light rain,10d
+2025-06-30 14:25:42,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.71,27.71,27.71,88.0,32.54,10000.0,0.42,100.0,2.92,6.37,146.0,1001.0,1,500,Rain,light rain,10d
+2025-06-30 14:27:49,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.71,27.71,27.71,88.0,32.54,10000.0,0.42,100.0,2.92,6.37,146.0,1001.0,1,500,Rain,light rain,10d
+2025-06-30 14:29:56,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.71,27.71,27.71,88.0,32.54,10000.0,0.42,100.0,2.92,6.37,146.0,1001.0,1,500,Rain,light rain,10d
+2025-06-30 14:31:58,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.65,27.65,27.65,89.0,32.51,10000.0,0.19,100.0,1.95,4.45,175.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 14:34:01,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.65,27.65,27.65,89.0,32.51,10000.0,0.18,100.0,1.95,4.45,175.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 14:36:02,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.65,27.65,27.65,89.0,32.51,10000.0,0.19,100.0,1.95,4.45,175.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 14:38:05,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.65,27.65,27.65,89.0,32.51,10000.0,0.19,100.0,1.95,4.45,175.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 14:40:09,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.65,27.65,27.65,89.0,32.51,10000.0,0.19,100.0,1.95,4.45,175.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 14:42:11,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.65,27.65,27.65,89.0,32.51,10000.0,0.18,100.0,1.95,4.45,175.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 14:44:12,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.65,27.65,27.65,89.0,32.51,10000.0,0.18,100.0,1.95,4.45,175.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 14:46:13,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.65,27.65,27.65,89.0,32.51,10000.0,0.12,100.0,1.95,4.45,175.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 14:48:14,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.65,27.65,27.65,89.0,32.51,10000.0,0.12,100.0,1.95,4.45,175.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 14:50:14,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.65,27.65,27.65,89.0,32.51,10000.0,0.12,100.0,1.95,4.45,175.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 14:52:15,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.65,27.65,27.65,89.0,32.51,10000.0,0.12,100.0,1.95,4.45,175.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 14:54:16,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.65,27.65,27.65,89.0,32.51,10000.0,0.12,100.0,1.95,4.45,175.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 14:56:16,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.65,27.65,27.65,89.0,32.51,10000.0,0.12,100.0,1.95,4.45,175.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 14:58:17,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.65,27.65,27.65,89.0,32.51,10000.0,0.12,100.0,1.95,4.45,175.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 15:00:18,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.65,27.65,27.65,89.0,32.51,10000.0,0.12,100.0,1.95,4.45,175.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 15:02:19,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.7,27.7,27.7,89.0,32.66,10000.0,0.12,100.0,1.95,4.45,175.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 15:04:21,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.7,27.7,27.7,89.0,32.66,10000.0,0.12,100.0,1.95,4.45,175.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 15:06:25,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.7,27.7,27.7,89.0,32.66,10000.0,0.12,100.0,1.95,4.45,175.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 15:08:27,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.7,27.7,27.7,89.0,32.66,10000.0,0.12,100.0,1.95,4.45,175.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 15:10:28,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.7,27.7,27.7,89.0,32.66,10000.0,0.12,100.0,1.95,4.45,175.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 15:12:32,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.7,27.7,27.7,89.0,32.66,10000.0,0.12,100.0,1.95,4.45,175.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 15:14:37,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.7,27.7,27.7,89.0,32.66,10000.0,0.15,100.0,1.95,4.45,175.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 15:16:41,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.7,27.7,27.7,89.0,32.66,10000.0,0.15,100.0,1.95,4.45,175.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 15:18:43,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.7,27.7,27.7,89.0,32.66,10000.0,0.15,100.0,1.95,4.45,175.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 15:20:46,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.69,27.69,27.69,89.0,32.63,10000.0,0.71,100.0,1.95,4.45,175.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 15:22:49,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.69,27.69,27.69,89.0,32.63,10000.0,0.71,100.0,1.95,4.45,175.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 15:24:52,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.69,27.69,27.69,89.0,32.63,10000.0,0.71,100.0,1.95,4.45,175.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 15:27:00,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.69,27.69,27.69,89.0,32.63,10000.0,0.71,100.0,1.95,4.45,175.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 15:29:11,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.69,27.69,27.69,89.0,32.63,10000.0,0.71,100.0,1.95,4.45,175.0,1000.0,1,500,Rain,light rain,10d
+2025-06-30 15:31:16,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.66,27.66,27.66,89.0,32.54,10000.0,2.37,100.0,1.88,3.36,193.0,1000.0,1,501,Rain,moderate rain,10d
+2025-06-30 15:33:20,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.66,27.66,27.66,89.0,32.54,10000.0,2.37,100.0,1.88,3.36,193.0,1000.0,1,501,Rain,moderate rain,10d
+2025-06-30 15:35:23,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.66,27.66,27.66,89.0,32.54,10000.0,2.37,100.0,1.88,3.36,193.0,1000.0,1,501,Rain,moderate rain,10d
+2025-06-30 15:37:26,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.66,27.66,27.66,89.0,32.54,10000.0,2.37,100.0,1.88,3.36,193.0,1000.0,1,501,Rain,moderate rain,10d
+2025-06-30 15:39:29,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.66,27.66,27.66,89.0,32.54,10000.0,2.37,100.0,1.88,3.36,193.0,1000.0,1,501,Rain,moderate rain,10d
+2025-06-30 15:41:33,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.66,27.66,27.66,89.0,32.54,10000.0,1.85,100.0,1.88,3.36,193.0,1000.0,1,501,Rain,moderate rain,10d
+2025-06-30 15:43:37,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.66,27.66,27.66,89.0,32.54,10000.0,1.85,100.0,1.88,3.36,193.0,1000.0,1,501,Rain,moderate rain,10d
+2025-06-30 15:45:41,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.66,27.66,27.66,89.0,32.54,10000.0,1.85,100.0,1.88,3.36,193.0,1000.0,1,501,Rain,moderate rain,10d
+2025-06-30 15:47:42,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.66,27.66,27.66,89.0,32.54,10000.0,1.85,100.0,1.88,3.36,193.0,1000.0,1,501,Rain,moderate rain,10d
+2025-06-30 15:49:43,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.61,27.61,27.61,90.0,32.54,10000.0,2.05,100.0,1.88,3.36,193.0,1000.0,1,501,Rain,moderate rain,10d
+2025-06-30 15:51:45,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.61,27.61,27.61,90.0,32.54,10000.0,2.05,100.0,1.88,3.36,193.0,1000.0,1,501,Rain,moderate rain,10d
+2025-06-30 15:53:52,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.61,27.61,27.61,90.0,32.54,10000.0,2.53,100.0,1.88,3.36,193.0,1000.0,1,501,Rain,moderate rain,10d
+2025-06-30 15:55:59,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.61,27.61,27.61,90.0,32.54,10000.0,2.53,100.0,1.88,3.36,193.0,1000.0,1,501,Rain,moderate rain,10d
+2025-06-30 15:58:13,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.61,27.61,27.61,90.0,32.54,10000.0,2.53,100.0,1.88,3.36,193.0,1000.0,1,501,Rain,moderate rain,10d
+2025-06-30 16:00:15,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.61,27.61,27.61,90.0,32.54,10000.0,2.53,100.0,1.88,3.36,193.0,1000.0,1,501,Rain,moderate rain,10d
+2025-06-30 16:02:20,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.61,27.61,27.61,90.0,32.54,10000.0,2.53,100.0,1.88,3.36,193.0,1000.0,1,501,Rain,moderate rain,10d
+2025-06-30 16:04:25,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.65,27.65,27.65,89.0,32.51,10000.0,1.89,100.0,1.88,3.36,193.0,1000.0,1,501,Rain,moderate rain,10d
+2025-06-30 16:06:30,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.65,27.65,27.65,89.0,32.51,10000.0,1.89,100.0,1.88,3.36,193.0,1000.0,1,501,Rain,moderate rain,10d
+2025-06-30 16:08:38,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.65,27.65,27.65,89.0,32.51,10000.0,1.89,100.0,1.88,3.36,193.0,1000.0,1,501,Rain,moderate rain,10d
+2025-06-30 16:10:42,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.65,27.65,27.65,89.0,32.51,10000.0,4.1,100.0,1.88,3.36,193.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:12:47,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.65,27.65,27.65,89.0,32.51,10000.0,4.1,100.0,1.88,3.36,193.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:14:48,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.65,27.65,27.65,89.0,32.51,10000.0,4.1,100.0,1.88,3.36,193.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:16:48,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.65,27.65,27.65,89.0,32.51,10000.0,4.1,100.0,1.88,3.36,193.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:18:51,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.65,27.65,27.65,89.0,32.51,10000.0,4.1,100.0,1.88,3.36,193.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:20:52,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.63,27.63,27.63,90.0,32.6,10000.0,4.73,100.0,1.88,3.36,193.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:22:54,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.63,27.63,27.63,90.0,32.6,10000.0,4.73,100.0,1.88,3.36,193.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:24:58,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.63,27.63,27.63,90.0,32.6,10000.0,4.73,100.0,1.88,3.36,193.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:27:00,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.63,27.63,27.63,90.0,32.6,10000.0,11.53,100.0,1.88,3.36,193.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:29:03,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.63,27.63,27.63,90.0,32.6,10000.0,11.53,100.0,1.88,3.36,193.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:31:04,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.63,27.63,27.63,90.0,32.6,10000.0,11.53,100.0,1.88,3.36,193.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:33:09,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.63,27.63,27.63,90.0,32.6,10000.0,11.53,100.0,1.88,3.36,193.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:35:19,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.63,27.63,27.63,90.0,32.6,10000.0,11.53,100.0,1.88,3.36,193.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:37:22,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.24,27.24,27.24,90.0,31.43,10000.0,9.99,100.0,1.35,1.3,206.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:39:31,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.24,27.24,27.24,90.0,31.43,10000.0,11.53,100.0,1.35,1.3,206.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:41:31,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.24,27.24,27.24,90.0,31.43,10000.0,11.53,100.0,1.35,1.3,206.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:43:33,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.24,27.24,27.24,90.0,31.43,10000.0,11.53,100.0,1.35,1.3,206.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:45:34,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.24,27.24,27.24,90.0,31.43,10000.0,9.99,100.0,1.35,1.3,206.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:47:35,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.23,27.23,27.23,90.0,31.4,10000.0,11.53,100.0,1.35,1.3,206.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:49:37,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.23,27.23,27.23,90.0,31.4,10000.0,11.53,100.0,1.35,1.3,206.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:51:42,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.23,27.23,27.23,90.0,31.4,10000.0,11.53,100.0,1.35,1.3,206.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:53:43,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.23,27.23,27.23,90.0,31.4,10000.0,11.53,100.0,1.35,1.3,206.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:55:43,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.23,27.23,27.23,90.0,31.4,10000.0,11.53,100.0,1.35,1.3,206.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:57:44,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.23,27.23,27.23,90.0,31.4,10000.0,11.53,100.0,1.35,1.3,206.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 16:59:45,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.23,27.23,27.23,90.0,31.4,10000.0,6.48,100.0,1.35,1.3,206.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 17:01:47,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.23,27.23,27.23,90.0,31.4,10000.0,6.48,100.0,1.35,1.3,206.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 17:03:48,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.27,27.27,27.27,90.0,31.52,10000.0,6.48,100.0,1.35,1.3,206.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 17:05:50,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.27,27.27,27.27,90.0,31.52,10000.0,6.48,100.0,1.35,1.3,206.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 17:07:52,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.27,27.27,27.27,90.0,31.52,10000.0,6.48,100.0,1.35,1.3,206.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 17:09:53,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.27,27.27,27.27,90.0,31.52,10000.0,6.48,100.0,1.35,1.3,206.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 17:11:57,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.27,27.27,27.27,90.0,31.52,10000.0,6.48,100.0,1.35,1.3,206.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 17:13:59,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.27,27.27,27.27,90.0,31.52,10000.0,6.48,100.0,1.35,1.3,206.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 17:16:08,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.26,27.26,27.26,90.0,31.49,10000.0,8.65,100.0,1.35,1.3,206.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 17:18:12,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.26,27.26,27.26,90.0,31.49,10000.0,8.65,100.0,1.35,1.3,206.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 17:20:15,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.26,27.26,27.26,90.0,31.49,10000.0,2.05,100.0,1.35,1.3,206.0,1000.0,1,501,Rain,moderate rain,10d
+2025-06-30 17:22:18,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.26,27.26,27.26,90.0,31.49,10000.0,8.65,100.0,1.35,1.3,206.0,1000.0,1,502,Rain,heavy intensity rain,10d
+2025-06-30 17:24:22,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.26,27.26,27.26,90.0,31.49,10000.0,2.05,100.0,1.35,1.3,206.0,1000.0,1,501,Rain,moderate rain,10d
+2025-06-30 17:26:26,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.26,27.26,27.26,90.0,31.49,10000.0,1.73,100.0,1.35,1.3,206.0,1000.0,1,501,Rain,moderate rain,10d
+2025-06-30 17:28:29,Thai Nguyen-Thai Nguyen,Thai Nguyen,27.26,27.26,27.26,90.0,31.49,10000.0,2.05,100.0,1.35,1.3,206.0,1000.0,1,501,Rain,moderate rain,10d
+2025-06-30 17:30:36,Thai Nguyen-Thai Nguyen,Thai Nguyen,26.99,26.99,26.99,90.0,30.71,10000.0,3.16,100.0,0.81,0.87,178.0,1000.0,1,501,Rain,moderate rain,10d
