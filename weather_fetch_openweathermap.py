@@ -10,7 +10,7 @@ import sys
 # CẤU HÌNH
 # =============================
 API_KEY = "04ac04c6c5dfbc0ed71a2f734493c394"  # <-- Thay bằng API key của bạn
-FOLDER = "City"
+FOLDER = "Citys"
 os.makedirs(FOLDER, exist_ok=True)
 
 # =============================
