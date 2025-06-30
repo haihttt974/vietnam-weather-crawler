@@ -1,6 +1,29 @@
 # vietnam-weather-crawler
 
-# Giải thích chi tiết các cột dữ liệu thời tiết
+Công cụ Python thu thập dữ liệu thời tiết cho 63 tỉnh/thành của Việt Nam sử dụng OpenWeatherMap API. Mỗi tỉnh được lưu thành một file CSV riêng trong thư mục `City/`.
+
+## Cài đặt
+
+```bash
+pip install -r requirements.txt
+```
+
+Sau khi cài thư viện, mở file `weather_fetch_openweathermap.py` và thay `API_KEY` bằng khóa của bạn.
+
+## Chạy chương trình
+
+```bash
+python weather_fetch_openweathermap.py
+```
+
+Có thể chạy bằng Docker nếu muốn:
+
+```bash
+docker build -t vn-weather .
+docker run vn-weather
+```
+
+## Giải thích chi tiết các cột dữ liệu thời tiết
 
 Dưới đây là giải thích cụ thể và chi tiết cho từng cột trong file CSV thu thập dữ liệu thời tiết từ OpenWeatherMap:
 
