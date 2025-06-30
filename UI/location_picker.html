@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>🌍 CHỌN VỊ TRÍ</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet-fullscreen@1.0.2/dist/Leaflet.fullscreen.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.locatecontrol@0.79.0/dist/L.Control.Locate.min.css" />
+  <style>
+    :root {
+      --primary: #1e40af;
+      --primary-dark: #172554;
+      --accent: #60a5fa;
+      --background: linear-gradient(135deg, #f3f4f6 0%, #e0e7ff 100%);
+      --card-bg: #ffffff;
+      --text: #1f2937;
+      --text-light: #6b7280;
+      --shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI",
+        Roboto, sans-serif;
+      background: var(--background);
+      color: var(--text);
+      line-height: 1.6;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    header {
+      background: var(--primary);
+      color: white;
+      width: 100%;
+      padding: 1.5rem;
+      text-align: center;
+      box-shadow: var(--shadow);
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+    }
+
+    header h1 {
+      font-size: 2rem;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+
+    main {
+      width: 100%;
+      max-width: 1200px;
+      padding: 0 1rem;
+    }
+
+    .form-container {
+      background: var(--card-bg);
+      padding: 2.5rem;
+      margin: 2rem auto;
+      border-radius: 15px;
+      box-shadow: var(--shadow);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .form-container:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 6px 25px rgba(0, 0, 0, 0.15);
+    }
+
+    .btn-group {
+      display: flex;
+      gap: 1.5rem;
+      margin-bottom: 2rem;
+      justify-content: center;
+    }
+
+    .option {
+      padding: 1rem 2rem;
+      font-size: 1.1rem;
+      font-weight: 600;
+      border: none;
+      border-radius: 10px;
+      background: var(--primary);
+      color: white;
+      cursor: pointer;
+      transition: background 0.3s ease, transform 0.2s ease,
+        box-shadow 0.2s ease;
+    }
+
+    .option:hover {
+      background: var(--primary-dark);
+      transform: translateY(-3px);
+      box-shadow: 0 4px 12px rgba(30, 64, 175, 0.3);
+    }
+
+    .option:active {
+      transform: translateY(0);
+      box-shadow: none;
+    }
+
+    .input-group {
+      margin-bottom: 1.5rem;
+    }
+
+    .input-group label {
+      display: block;
+      font-weight: 600;
+      margin-bottom: 0.75rem;
+      color: var(--text);
+    }
+
+    .input-group input {
+      width: 100%;
+      padding: 0.9rem;
+      border: 2px solid #e5e7eb;
+      border-radius: 10px;
+      font-size: 1rem;
+      transition: border-color 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .input-group input:focus {
+      outline: none;
+      border-color: var(--primary);
+      box-shadow: 0 0 0 4px rgba(30, 64, 175, 0.1);
+    }
+
+    #map {
+      height: 85vh;
+      width: 100%;
+      margin: 2rem auto;
+      border-radius: 15px;
+      border: 3px solid var(--primary);
+      box-shadow: var(--shadow);
+      position: relative;
+    }
+
+    #sendBtn {
+      width: 100%;
+      max-width: 600px;
+      padding: 1rem;
+      font-size: 1.1rem;
+      font-weight: 600;
+      border: none;
+      border-radius: 10px;
+      background: var(--primary);
+      color: white;
+      cursor: pointer;
+      transition: background 0.3s ease, transform 0.2s ease,
+        box-shadow 0.2s ease;
+      margin: 1rem auto;
+      display: none;
+    }
+
+    #sendBtn.active {
+      display: block;
+    }
+
+    #sendBtn:hover {
+      background: var(--primary-dark);
+      transform: translateY(-3px);
+      box-shadow: 0 4px 12px rgba(30, 64, 175, 0.3);
+    }
+
+    #sendBtn:active {
+      transform: translateY(0);
+      box-shadow: none;
+    }
+
+    #status {
+      margin-top: 1rem;
+      font-size: 1rem;
+      font-weight: 500;
+      color: var(--text-light);
+      text-align: center;
+      padding: 0.5rem 1rem;
+      border-radius: 8px;
+      background: rgba(255, 255, 255, 0.9);
+      max-width: 600px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    @media (max-width: 600px) {
+      header h1 {
+        font-size: 1.5rem;
+      }
+
+      .form-container {
+        margin: 1rem;
+        padding: 1.5rem;
+      }
+
+      .btn-group {
+        flex-direction: column;
+        gap: 1rem;
+      }
+
+      .option {
+        width: 100%;
+      }
+
+      #map {
+        height: 60vh;
+      }
+
+      #sendBtn {
+        width: 90%;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>🗺️ Chọn vị trí</h1>
+  </header>
+  <main>
+    <div class="form-container">
+      <div class="btn-group">
+        <button class="option" onclick="useCurrentLocation()">
+          📍 Vị trí của bạn
+        </button>
+        <button class="option" onclick="useMapLocation()">
+          🗺️ Vị trí khác
+        </button>
+      </div>
+      <div class="input-group">
+        <label for="province">Tỉnh</label>
+        <input type="text" id="province" placeholder="Nhập tên tỉnh" />
+      </div>
+      <div class="input-group">
+        <label for="city">Thành phố/Địa chỉ</label>
+        <input type="text" id="city" placeholder="Nhập thành phố hoặc địa chỉ cụ thể" />
+      </div>
+      <div class="input-group">
+        <label for="filename">Tên file CSV</label>
+        <input type="text" id="filename" placeholder="Nhập tên file (không cần .csv)" />
+      </div>
+    </div>
+    <div id="status"></div>
+    <button id="sendBtn" onclick="sendData()">📤 Gửi vị trí</button>
+    <div id="map"></div>
+  </main>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.js"></script>
+  <script src="https://unpkg.com/leaflet-fullscreen@1.0.2/dist/Leaflet.fullscreen.min.js"></script>
+  <script src="https://unpkg.com/leaflet.locatecontrol@0.79.0/dist/L.Control.Locate.min.js"></script>
+  <script>
+    let selectedLat = null;
+    let selectedLon = null;
+    let map, marker, geocoder;
+
+    function enableSendButton() {
+      const btn = document.getElementById("sendBtn");
+      btn.classList.add("active");
+    }
+
+    function useCurrentLocation() {
+      document.getElementById("map").style.display = "none";
+      document.getElementById("status").innerText =
+        "⏳ Đang lấy vị trí của bạn...";
+      if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(
+          (position) => {
+            selectedLat = position.coords.latitude;
+            selectedLon = position.coords.longitude;
+            document.getElementById(
+              "status"
+            ).innerText = `✅ Vị trí của bạn: (${selectedLat.toFixed(
+              5
+            )}, ${selectedLon.toFixed(5)})`;
+            enableSendButton();
+            if (map && marker) {
+              map.removeLayer(marker);
+              marker = L.marker([selectedLat, selectedLon]).addTo(map);
+              map.setView([selectedLat, selectedLon], 13);
+            }
+          },
+          () => {
+            document.getElementById("status").innerText =
+              "❌ Không thể lấy vị trí hiện tại.";
+          }
+        );
+      } else {
+        document.getElementById("status").innerText =
+          "❌ Trình duyệt không hỗ trợ định vị.";
+      }
+    }
+
+    function useMapLocation() {
+      document.getElementById("status").innerText =
+        "🗺️ Click hoặc tìm kiếm để chọn vị trí.";
+      document.getElementById("map").style.display = "block";
+      if (!map) {
+        map = L.map("map", {
+          fullscreenControl: true,
+          fullscreenControlOptions: {
+            title: "Xem toàn màn hình",
+            titleCancel: "Thoát toàn màn hình",
+          },
+        }).setView([10.75, 106.67], 6);
+
+        L.tileLayer("https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png", {
+          attribution:
+            '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, © <a href="http://viewfinderpanoramas.org">SRTM</a>, © <a href="https://opentopomap.org">OpenTopoMap</a>',
+          maxZoom: 17,
+        }).addTo(map);
+
+        L.control.scale().addTo(map);
+        L.control
+          .locate({
+            position: "topleft",
+            strings: { title: "Tìm vị trí của bạn" },
+          })
+          .addTo(map);
+
+        geocoder = L.Control.Geocoder.nominatim({
+          geocodingQueryParams: { countrycodes: "vn" },
+        });
+
+        const searchControl = new L.Control.Geocoder({
+          geocoder: geocoder,
+          placeholder: "Tìm địa chỉ...",
+          position: "topleft",
+        }).addTo(map);
+
+        map.on("geocode:result", (e) => {
+          const { center } = e.result;
+          selectedLat = center.lat;
+          selectedLon = center.lng;
+          if (marker) map.removeLayer(marker);
+          marker = L.marker([selectedLat, selectedLon]).addTo(map);
+          map.setView([selectedLat, selectedLon], 13);
+          document.getElementById(
+            "status"
+          ).innerText = `✅ Đã chọn vị trí: (${selectedLat.toFixed(
+            5
+          )}, ${selectedLon.toFixed(5)})`;
+          enableSendButton();
+        });
+
+        map.on("click", (e) => {
+          selectedLat = e.latlng.lat;
+          selectedLon = e.latlng.lng;
+          if (marker) map.removeLayer(marker);
+          marker = L.marker([selectedLat, selectedLon]).addTo(map);
+          map.setView([selectedLat, selectedLon], 13);
+          document.getElementById(
+            "status"
+          ).innerText = `✅ Đã chọn vị trí: (${selectedLat.toFixed(
+            5
+          )}, ${selectedLon.toFixed(5)})`;
+          enableSendButton();
+        });
+      } else {
+        document.getElementById("map").style.display = "block";
+      }
+    }
+
+    async function sendData() {
+      const province = document.getElementById("province").value.trim();
+      const city = document.getElementById("city").value.trim();
+      const filename =
+        document.getElementById("filename").value.trim() + ".csv";
+      if (!selectedLat || !selectedLon || !province || !city || !filename) {
+        document.getElementById("status").innerText =
+          "❌ Vui lòng nhập đầy đủ thông tin.";
+        return;
+      }
+
+      try {
+        const response = await fetch("http://127.0.0.1:5000/location", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            lat: selectedLat,
+            lon: selectedLon,
+            province,
+            city,
+            filename,
+          }),
+        });
+
+        if (response.ok) {
+          document.getElementById("status").innerText =
+            "✅ Gửi thành công! Bạn có thể đóng trang này.";
+        } else {
+          document.getElementById("status").innerText =
+            "❌ Lỗi khi gửi dữ liệu.";
+        }
+      } catch (error) {
+        document.getElementById("status").innerText =
+          "❌ Lỗi kết nối đến server.";
+        console.error("Error:", error);
+      }
+    }
+  </script>
+</body>
+
+</html>
