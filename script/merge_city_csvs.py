@@ -7,7 +7,7 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 # Đường dẫn đến các thư mục chứa file csv
 folder1 = os.path.join(current_dir, '..', 'FirstCity')
 folder2 = os.path.join(current_dir, '..', 'LastCity')
-output_folder = os.path.join(current_dir, '..', 'Citys')
+output_folder = os.path.join(current_dir, '..', '_Citys')
 
 # Tạo thư mục kết quả nếu chưa tồn tại
 os.makedirs(output_folder, exist_ok=True)
