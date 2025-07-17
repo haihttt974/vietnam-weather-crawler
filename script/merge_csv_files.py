@@ -2,8 +2,8 @@ import os
 import pandas as pd
 
 # Đường dẫn chính xác đến thư mục City từ vị trí chạy script
-folder_path = 'D:/PYTHON/vietnam-weather-crawler/02-Citys'
-output_file = 'D:/PYTHON/vietnam-weather-crawler/Data/weather-vn-2.csv'
+folder_path = 'D:/PYTHON/vietnam-weather-crawler/03-Citys'
+output_file = 'D:/PYTHON/vietnam-weather-crawler/Data/weather-vn-3.csv'
 
 dataframes = []
 header_saved = None
