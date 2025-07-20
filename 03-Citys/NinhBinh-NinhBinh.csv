@@ -500,3 +500,185 @@ time,province,city,temperature,temp_min,temp_max,humidity,feels_like,visibility,
 2025-07-18 22:18:22,Ninh Binh-Ninh Binh,Ninh Binh,30.02,30.02,30.02,74.0,36.09,10000.0,0.0,81.0,2.17,5.58,193.0,999.0,0,803,Clouds,broken clouds,04n
 2025-07-18 22:20:21,Ninh Binh-Ninh Binh,Ninh Binh,30.02,30.02,30.02,74.0,36.09,10000.0,0.0,81.0,2.17,5.58,193.0,999.0,0,803,Clouds,broken clouds,04n
 2025-07-18 22:27:07,Ninh Binh-Ninh Binh,Ninh Binh,30.02,30.02,30.02,74.0,36.09,10000.0,0.0,81.0,2.17,5.58,193.0,999.0,0,803,Clouds,broken clouds,04n
+2025-07-19 02:19:35,Ninh Binh-Ninh Binh,Ninh Binh,29.12,29.12,29.12,81.0,35.3,10000.0,0.0,94.0,1.19,1.15,209.0,997.0,0,804,Clouds,overcast clouds,04n
+2025-07-19 06:50:07,Ninh Binh-Ninh Binh,Ninh Binh,29.94,29.94,29.94,77.0,36.66,10000.0,0.0,99.0,1.83,2.83,312.0,997.0,1,804,Clouds,overcast clouds,04d
+2025-07-19 08:51:47,Ninh Binh-Ninh Binh,Ninh Binh,33.12,33.12,33.12,63.0,40.12,10000.0,0.0,100.0,2.93,4.09,318.0,997.0,1,804,Clouds,overcast clouds,04d
+2025-07-19 09:38:41,Ninh Binh-Ninh Binh,Ninh Binh,34.58,34.58,34.58,57.0,41.58,10000.0,0.0,100.0,3.18,4.37,329.0,997.0,1,804,Clouds,overcast clouds,04d
+2025-07-19 10:26:59,Ninh Binh-Ninh Binh,Ninh Binh,34.53,34.53,34.53,58.0,41.53,10000.0,0.92,100.0,3.18,4.37,329.0,997.0,1,500,Rain,light rain,10d
+2025-07-19 10:39:25,Ninh Binh-Ninh Binh,Ninh Binh,35.54,35.54,35.54,52.0,42.54,10000.0,1.0,100.0,2.99,4.21,333.0,997.0,1,500,Rain,light rain,10d
+2025-07-19 10:43:25,Ninh Binh-Ninh Binh,Ninh Binh,35.54,35.54,35.54,52.0,42.54,10000.0,1.33,100.0,2.99,4.21,333.0,997.0,1,501,Rain,moderate rain,10d
+2025-07-19 10:47:25,Ninh Binh-Ninh Binh,Ninh Binh,35.54,35.54,35.54,52.0,42.54,10000.0,1.33,100.0,2.99,4.21,333.0,997.0,1,501,Rain,moderate rain,10d
+2025-07-19 10:51:24,Ninh Binh-Ninh Binh,Ninh Binh,35.54,35.54,35.54,52.0,42.54,10000.0,1.33,100.0,2.99,4.21,333.0,997.0,1,501,Rain,moderate rain,10d
+2025-07-19 10:59:17,Ninh Binh-Ninh Binh,Ninh Binh,35.52,35.52,35.52,52.0,42.52,10000.0,2.05,100.0,2.99,4.21,333.0,997.0,1,501,Rain,moderate rain,10d
+2025-07-19 11:06:59,Ninh Binh-Ninh Binh,Ninh Binh,35.5,35.5,35.5,53.0,42.5,10000.0,2.37,100.0,2.99,4.21,333.0,997.0,1,501,Rain,moderate rain,10d
+2025-07-19 11:11:21,Ninh Binh-Ninh Binh,Ninh Binh,35.5,35.5,35.5,53.0,42.5,10000.0,2.37,100.0,2.99,4.21,333.0,997.0,1,501,Rain,moderate rain,10d
+2025-07-19 11:15:32,Ninh Binh-Ninh Binh,Ninh Binh,35.5,35.5,35.5,53.0,42.5,10000.0,2.37,100.0,2.99,4.21,333.0,997.0,1,501,Rain,moderate rain,10d
+2025-07-19 11:19:31,Ninh Binh-Ninh Binh,Ninh Binh,35.5,35.5,35.5,53.0,42.5,10000.0,2.37,100.0,2.99,4.21,333.0,997.0,1,501,Rain,moderate rain,10d
+2025-07-19 11:23:18,Ninh Binh-Ninh Binh,Ninh Binh,35.5,35.5,35.5,53.0,42.5,10000.0,2.73,100.0,2.99,4.21,333.0,997.0,1,501,Rain,moderate rain,10d
+2025-07-19 11:27:08,Ninh Binh-Ninh Binh,Ninh Binh,35.5,35.5,35.5,53.0,42.5,10000.0,3.16,100.0,2.99,4.21,333.0,997.0,1,501,Rain,moderate rain,10d
+2025-07-19 11:30:55,Ninh Binh-Ninh Binh,Ninh Binh,35.5,35.5,35.5,53.0,42.5,10000.0,3.16,100.0,2.99,4.21,333.0,997.0,1,501,Rain,moderate rain,10d
+2025-07-19 11:34:41,Ninh Binh-Ninh Binh,Ninh Binh,35.5,35.5,35.5,53.0,42.5,10000.0,3.16,100.0,2.99,4.21,333.0,997.0,1,501,Rain,moderate rain,10d
+2025-07-19 11:38:27,Ninh Binh-Ninh Binh,Ninh Binh,36.36,36.36,36.36,49.0,43.36,10000.0,2.73,100.0,3.83,4.8,340.0,996.0,1,501,Rain,moderate rain,10d
+2025-07-19 11:42:15,Ninh Binh-Ninh Binh,Ninh Binh,36.36,36.36,36.36,49.0,43.36,10000.0,2.73,100.0,3.83,4.8,340.0,996.0,1,501,Rain,moderate rain,10d
+2025-07-19 11:46:08,Ninh Binh-Ninh Binh,Ninh Binh,36.36,36.36,36.36,49.0,43.36,10000.0,2.73,100.0,3.83,4.8,340.0,996.0,1,501,Rain,moderate rain,10d
+2025-07-19 11:49:56,Ninh Binh-Ninh Binh,Ninh Binh,36.39,36.39,36.39,49.0,43.39,10000.0,4.21,100.0,3.83,4.8,340.0,996.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 11:53:42,Ninh Binh-Ninh Binh,Ninh Binh,36.39,36.39,36.39,49.0,43.39,10000.0,4.21,100.0,3.83,4.8,340.0,996.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 11:57:28,Ninh Binh-Ninh Binh,Ninh Binh,36.39,36.39,36.39,49.0,43.39,10000.0,4.86,100.0,3.83,4.8,340.0,996.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 12:01:18,Ninh Binh-Ninh Binh,Ninh Binh,36.39,36.39,36.39,49.0,43.39,10000.0,4.86,100.0,3.83,4.8,340.0,996.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 12:05:12,Ninh Binh-Ninh Binh,Ninh Binh,36.39,36.39,36.39,49.0,43.39,10000.0,4.86,100.0,3.83,4.8,340.0,996.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 12:08:57,Ninh Binh-Ninh Binh,Ninh Binh,36.37,36.37,36.37,50.0,43.37,10000.0,4.86,100.0,3.83,4.8,340.0,996.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 12:12:44,Ninh Binh-Ninh Binh,Ninh Binh,36.37,36.37,36.37,50.0,43.37,10000.0,4.21,100.0,3.83,4.8,340.0,996.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 12:16:30,Ninh Binh-Ninh Binh,Ninh Binh,36.37,36.37,36.37,50.0,43.37,10000.0,3.16,100.0,3.83,4.8,340.0,996.0,1,501,Rain,moderate rain,10d
+2025-07-19 12:20:16,Ninh Binh-Ninh Binh,Ninh Binh,36.37,36.37,36.37,50.0,43.37,10000.0,3.16,100.0,3.83,4.8,340.0,996.0,1,501,Rain,moderate rain,10d
+2025-07-19 12:24:02,Ninh Binh-Ninh Binh,Ninh Binh,36.37,36.37,36.37,50.0,43.37,10000.0,2.73,100.0,3.83,4.8,340.0,996.0,1,501,Rain,moderate rain,10d
+2025-07-19 12:27:48,Ninh Binh-Ninh Binh,Ninh Binh,36.37,36.37,36.37,50.0,43.37,10000.0,2.37,100.0,3.83,4.8,340.0,996.0,1,501,Rain,moderate rain,10d
+2025-07-19 12:31:33,Ninh Binh-Ninh Binh,Ninh Binh,36.37,36.37,36.37,50.0,43.37,10000.0,2.37,100.0,3.83,4.8,340.0,996.0,1,501,Rain,moderate rain,10d
+2025-07-19 12:35:19,Ninh Binh-Ninh Binh,Ninh Binh,36.37,36.37,36.37,50.0,43.37,10000.0,2.37,100.0,3.83,4.8,340.0,996.0,1,501,Rain,moderate rain,10d
+2025-07-19 12:39:05,Ninh Binh-Ninh Binh,Ninh Binh,36.49,36.49,36.49,48.0,43.47,10000.0,2.37,100.0,3.62,4.44,348.0,996.0,1,501,Rain,moderate rain,10d
+2025-07-19 12:42:50,Ninh Binh-Ninh Binh,Ninh Binh,36.49,36.49,36.49,48.0,43.47,10000.0,2.37,100.0,3.62,4.44,348.0,996.0,1,501,Rain,moderate rain,10d
+2025-07-19 12:46:36,Ninh Binh-Ninh Binh,Ninh Binh,36.49,36.49,36.49,48.0,43.47,10000.0,2.37,100.0,3.62,4.44,348.0,996.0,1,501,Rain,moderate rain,10d
+2025-07-19 12:50:21,Ninh Binh-Ninh Binh,Ninh Binh,36.54,36.54,36.54,48.0,43.54,10000.0,2.05,100.0,3.62,4.44,348.0,996.0,1,501,Rain,moderate rain,10d
+2025-07-19 12:54:08,Ninh Binh-Ninh Binh,Ninh Binh,36.54,36.54,36.54,48.0,43.54,10000.0,2.05,100.0,3.62,4.44,348.0,996.0,1,501,Rain,moderate rain,10d
+2025-07-19 12:57:54,Ninh Binh-Ninh Binh,Ninh Binh,36.54,36.54,36.54,48.0,43.54,10000.0,2.05,100.0,3.62,4.44,348.0,996.0,1,501,Rain,moderate rain,10d
+2025-07-19 13:01:40,Ninh Binh-Ninh Binh,Ninh Binh,36.54,36.54,36.54,48.0,43.54,10000.0,1.46,100.0,3.62,4.44,348.0,996.0,1,501,Rain,moderate rain,10d
+2025-07-19 13:05:25,Ninh Binh-Ninh Binh,Ninh Binh,36.54,36.54,36.54,48.0,43.54,10000.0,1.46,100.0,3.62,4.44,348.0,996.0,1,501,Rain,moderate rain,10d
+2025-07-19 13:09:11,Ninh Binh-Ninh Binh,Ninh Binh,36.54,36.54,36.54,48.0,43.54,10000.0,1.46,100.0,3.62,4.44,348.0,996.0,1,501,Rain,moderate rain,10d
+2025-07-19 13:12:56,Ninh Binh-Ninh Binh,Ninh Binh,36.54,36.54,36.54,48.0,43.54,10000.0,1.33,100.0,3.62,4.44,348.0,996.0,1,501,Rain,moderate rain,10d
+2025-07-19 13:16:42,Ninh Binh-Ninh Binh,Ninh Binh,36.54,36.54,36.54,48.0,43.54,10000.0,1.33,100.0,3.62,4.44,348.0,996.0,1,501,Rain,moderate rain,10d
+2025-07-19 13:20:27,Ninh Binh-Ninh Binh,Ninh Binh,36.54,36.54,36.54,48.0,43.54,10000.0,1.33,100.0,3.62,4.44,348.0,996.0,1,501,Rain,moderate rain,10d
+2025-07-19 13:24:12,Ninh Binh-Ninh Binh,Ninh Binh,36.54,36.54,36.54,48.0,43.54,10000.0,1.68,100.0,3.62,4.44,348.0,996.0,1,501,Rain,moderate rain,10d
+2025-07-19 13:27:57,Ninh Binh-Ninh Binh,Ninh Binh,36.54,36.54,36.54,48.0,43.54,10000.0,1.68,100.0,3.62,4.44,348.0,996.0,1,501,Rain,moderate rain,10d
+2025-07-19 13:31:43,Ninh Binh-Ninh Binh,Ninh Binh,36.06,36.06,36.06,47.0,41.98,10000.0,3.65,100.0,3.85,4.25,354.0,995.0,1,501,Rain,moderate rain,10d
+2025-07-19 13:35:30,Ninh Binh-Ninh Binh,Ninh Binh,36.54,36.54,36.54,48.0,43.54,10000.0,3.16,100.0,3.62,4.44,348.0,996.0,1,501,Rain,moderate rain,10d
+2025-07-19 13:39:15,Ninh Binh-Ninh Binh,Ninh Binh,36.06,36.06,36.06,47.0,41.98,10000.0,7.78,100.0,3.85,4.25,354.0,995.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 13:43:01,Ninh Binh-Ninh Binh,Ninh Binh,35.39,35.39,35.39,49.0,41.2,10000.0,12.68,100.0,3.85,4.25,354.0,995.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 13:46:46,Ninh Binh-Ninh Binh,Ninh Binh,36.06,36.06,36.06,47.0,41.98,10000.0,11.34,100.0,3.85,4.25,354.0,995.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 13:50:33,Ninh Binh-Ninh Binh,Ninh Binh,35.39,35.39,35.39,49.0,41.2,10000.0,12.68,100.0,3.85,4.25,354.0,995.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 13:54:21,Ninh Binh-Ninh Binh,Ninh Binh,35.44,35.44,35.44,49.0,41.32,10000.0,34.64,100.0,3.85,4.25,354.0,995.0,1,503,Rain,very heavy rain,10d
+2025-07-19 13:58:11,Ninh Binh-Ninh Binh,Ninh Binh,35.44,35.44,35.44,49.0,41.32,10000.0,20.13,100.0,3.85,4.25,354.0,995.0,1,503,Rain,very heavy rain,10d
+2025-07-19 14:02:02,Ninh Binh-Ninh Binh,Ninh Binh,35.44,35.44,35.44,49.0,41.32,10000.0,20.13,100.0,3.85,4.25,354.0,995.0,1,503,Rain,very heavy rain,10d
+2025-07-19 14:05:54,Ninh Binh-Ninh Binh,Ninh Binh,35.46,35.46,35.46,50.0,41.79,10000.0,30.73,100.0,3.85,4.25,354.0,995.0,1,503,Rain,very heavy rain,10d
+2025-07-19 14:09:43,Ninh Binh-Ninh Binh,Ninh Binh,35.46,35.46,35.46,50.0,41.79,10000.0,30.73,100.0,3.85,4.25,354.0,995.0,1,503,Rain,very heavy rain,10d
+2025-07-19 14:13:32,Ninh Binh-Ninh Binh,Ninh Binh,35.46,35.46,35.46,50.0,41.79,10000.0,30.73,100.0,3.85,4.25,354.0,995.0,1,503,Rain,very heavy rain,10d
+2025-07-19 14:17:24,Ninh Binh-Ninh Binh,Ninh Binh,35.46,35.46,35.46,50.0,41.79,10000.0,30.73,100.0,3.85,4.25,354.0,995.0,1,503,Rain,very heavy rain,10d
+2025-07-19 14:21:16,Ninh Binh-Ninh Binh,Ninh Binh,35.46,35.46,35.46,50.0,41.79,10000.0,12.65,100.0,3.85,4.25,354.0,995.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 14:25:10,Ninh Binh-Ninh Binh,Ninh Binh,35.46,35.46,35.46,50.0,41.79,10000.0,11.53,100.0,3.85,4.25,354.0,995.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 14:29:01,Ninh Binh-Ninh Binh,Ninh Binh,35.46,35.46,35.46,50.0,41.79,10000.0,12.65,100.0,3.85,4.25,354.0,995.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 14:32:53,Ninh Binh-Ninh Binh,Ninh Binh,34.58,34.58,34.58,50.0,39.69,10000.0,9.18,100.0,2.56,3.52,18.0,995.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 14:36:42,Ninh Binh-Ninh Binh,Ninh Binh,34.58,34.58,34.58,50.0,39.69,10000.0,8.18,100.0,2.56,3.52,18.0,995.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 14:40:33,Ninh Binh-Ninh Binh,Ninh Binh,34.58,34.58,34.58,50.0,39.69,10000.0,8.18,100.0,2.56,3.52,18.0,995.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 14:44:24,Ninh Binh-Ninh Binh,Ninh Binh,34.58,34.58,34.58,50.0,39.69,10000.0,4.34,100.0,2.56,3.52,18.0,995.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 14:48:15,Ninh Binh-Ninh Binh,Ninh Binh,34.58,34.58,34.58,50.0,39.69,10000.0,4.34,100.0,2.56,3.52,18.0,995.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 14:52:06,Ninh Binh-Ninh Binh,Ninh Binh,34.58,34.58,34.58,50.0,39.69,10000.0,3.16,100.0,2.56,3.52,18.0,995.0,1,501,Rain,moderate rain,10d
+2025-07-19 14:55:56,Ninh Binh-Ninh Binh,Ninh Binh,34.55,34.55,34.55,50.0,39.63,10000.0,2.9,100.0,2.56,3.52,18.0,995.0,1,501,Rain,moderate rain,10d
+2025-07-19 14:59:45,Ninh Binh-Ninh Binh,Ninh Binh,34.55,34.55,34.55,50.0,39.63,10000.0,3.16,100.0,2.56,3.52,18.0,995.0,1,501,Rain,moderate rain,10d
+2025-07-19 15:03:35,Ninh Binh-Ninh Binh,Ninh Binh,34.55,34.55,34.55,50.0,39.63,10000.0,3.55,100.0,2.56,3.52,18.0,995.0,1,501,Rain,moderate rain,10d
+2025-07-19 15:07:27,Ninh Binh-Ninh Binh,Ninh Binh,34.55,34.55,34.55,50.0,39.63,10000.0,3.55,100.0,2.56,3.52,18.0,995.0,1,501,Rain,moderate rain,10d
+2025-07-19 15:11:18,Ninh Binh-Ninh Binh,Ninh Binh,34.55,34.55,34.55,50.0,39.63,10000.0,5.01,100.0,2.56,3.52,18.0,995.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 15:15:09,Ninh Binh-Ninh Binh,Ninh Binh,34.55,34.55,34.55,50.0,39.63,10000.0,5.62,100.0,2.56,3.52,18.0,995.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 15:18:59,Ninh Binh-Ninh Binh,Ninh Binh,34.55,34.55,34.55,50.0,39.63,10000.0,5.62,100.0,2.56,3.52,18.0,995.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 15:22:48,Ninh Binh-Ninh Binh,Ninh Binh,34.55,34.55,34.55,50.0,39.63,10000.0,5.84,100.0,2.56,3.52,18.0,995.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 15:26:38,Ninh Binh-Ninh Binh,Ninh Binh,34.55,34.55,34.55,50.0,39.63,10000.0,5.84,100.0,2.56,3.52,18.0,995.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 15:30:27,Ninh Binh-Ninh Binh,Ninh Binh,34.55,34.55,34.55,50.0,39.63,10000.0,5.84,100.0,2.56,3.52,18.0,995.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 15:34:18,Ninh Binh-Ninh Binh,Ninh Binh,34.04,34.04,34.04,55.0,40.28,10000.0,6.16,100.0,0.48,1.43,94.0,993.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 15:38:08,Ninh Binh-Ninh Binh,Ninh Binh,34.04,34.04,34.04,55.0,40.28,10000.0,5.62,100.0,0.48,1.43,94.0,993.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 15:41:58,Ninh Binh-Ninh Binh,Ninh Binh,34.04,34.04,34.04,55.0,40.28,10000.0,6.48,100.0,0.48,1.43,94.0,993.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 15:45:48,Ninh Binh-Ninh Binh,Ninh Binh,34.04,34.04,34.04,55.0,40.28,10000.0,6.48,100.0,0.48,1.43,94.0,993.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 15:49:38,Ninh Binh-Ninh Binh,Ninh Binh,34.04,34.04,34.04,55.0,40.28,10000.0,6.48,100.0,0.48,1.43,94.0,993.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 15:53:27,Ninh Binh-Ninh Binh,Ninh Binh,33.65,33.65,33.65,57.0,40.06,10000.0,5.96,100.0,0.48,1.43,94.0,993.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 15:57:17,Ninh Binh-Ninh Binh,Ninh Binh,33.65,33.65,33.65,57.0,40.06,10000.0,4.18,100.0,0.48,1.43,94.0,993.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 16:01:07,Ninh Binh-Ninh Binh,Ninh Binh,33.65,33.65,33.65,57.0,40.06,10000.0,4.18,100.0,0.48,1.43,94.0,993.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 16:04:57,Ninh Binh-Ninh Binh,Ninh Binh,33.65,33.65,33.65,57.0,40.06,10000.0,3.76,100.0,0.48,1.43,94.0,993.0,1,501,Rain,moderate rain,10d
+2025-07-19 16:08:47,Ninh Binh-Ninh Binh,Ninh Binh,33.65,33.65,33.65,57.0,40.06,10000.0,3.76,100.0,0.48,1.43,94.0,993.0,1,501,Rain,moderate rain,10d
+2025-07-19 16:12:37,Ninh Binh-Ninh Binh,Ninh Binh,33.48,33.48,33.48,59.0,40.38,10000.0,3.99,100.0,0.48,1.43,94.0,994.0,1,501,Rain,moderate rain,10d
+2025-07-19 16:16:27,Ninh Binh-Ninh Binh,Ninh Binh,33.48,33.48,33.48,59.0,40.38,10000.0,3.99,100.0,0.48,1.43,94.0,994.0,1,501,Rain,moderate rain,10d
+2025-07-19 16:20:17,Ninh Binh-Ninh Binh,Ninh Binh,33.48,33.48,33.48,59.0,40.38,10000.0,3.99,100.0,0.48,1.43,94.0,994.0,1,501,Rain,moderate rain,10d
+2025-07-19 16:24:08,Ninh Binh-Ninh Binh,Ninh Binh,33.48,33.48,33.48,59.0,40.38,10000.0,6.89,100.0,0.48,1.43,94.0,994.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 16:27:59,Ninh Binh-Ninh Binh,Ninh Binh,33.48,33.48,33.48,59.0,40.38,10000.0,6.89,100.0,0.48,1.43,94.0,994.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 16:31:49,Ninh Binh-Ninh Binh,Ninh Binh,29.77,29.77,29.77,78.0,36.44,4334.0,7.49,93.0,6.78,7.78,74.0,993.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 16:35:39,Ninh Binh-Ninh Binh,Ninh Binh,29.77,29.77,29.77,78.0,36.44,4334.0,7.49,93.0,6.78,7.78,74.0,993.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 16:39:28,Ninh Binh-Ninh Binh,Ninh Binh,29.83,29.83,29.83,78.0,36.61,4334.0,8.65,93.0,6.78,7.78,74.0,993.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 16:43:18,Ninh Binh-Ninh Binh,Ninh Binh,29.83,29.83,29.83,78.0,36.61,4334.0,6.48,93.0,6.78,7.78,74.0,993.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 16:47:09,Ninh Binh-Ninh Binh,Ninh Binh,29.83,29.83,29.83,78.0,36.61,4334.0,6.48,93.0,6.78,7.78,74.0,993.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 16:50:59,Ninh Binh-Ninh Binh,Ninh Binh,29.83,29.83,29.83,78.0,36.61,4334.0,6.48,93.0,6.78,7.78,74.0,993.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 16:54:49,Ninh Binh-Ninh Binh,Ninh Binh,29.83,29.83,29.83,78.0,36.61,4334.0,6.48,93.0,6.78,7.78,74.0,993.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 16:58:38,Ninh Binh-Ninh Binh,Ninh Binh,29.86,29.86,29.86,78.0,36.7,4334.0,7.49,93.0,6.78,7.78,74.0,993.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 17:02:28,Ninh Binh-Ninh Binh,Ninh Binh,29.86,29.86,29.86,78.0,36.7,4334.0,7.49,93.0,6.78,7.78,74.0,993.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 17:06:18,Ninh Binh-Ninh Binh,Ninh Binh,29.78,29.78,29.78,79.0,36.73,4334.0,7.49,93.0,6.78,7.78,74.0,993.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 17:10:09,Ninh Binh-Ninh Binh,Ninh Binh,29.78,29.78,29.78,79.0,36.73,4334.0,5.62,93.0,6.78,7.78,74.0,993.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 17:13:59,Ninh Binh-Ninh Binh,Ninh Binh,29.78,29.78,29.78,79.0,36.73,4334.0,5.62,93.0,6.78,7.78,74.0,993.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 17:17:50,Ninh Binh-Ninh Binh,Ninh Binh,29.78,29.78,29.78,79.0,36.73,4334.0,4.86,93.0,6.78,7.78,74.0,993.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 17:21:40,Ninh Binh-Ninh Binh,Ninh Binh,29.78,29.78,29.78,79.0,36.73,4334.0,4.86,93.0,6.78,7.78,74.0,993.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 17:25:31,Ninh Binh-Ninh Binh,Ninh Binh,29.78,29.78,29.78,79.0,36.73,4334.0,4.86,93.0,6.78,7.78,74.0,993.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 17:29:23,Ninh Binh-Ninh Binh,Ninh Binh,29.78,29.78,29.78,79.0,36.73,4334.0,4.21,93.0,6.78,7.78,74.0,993.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 17:33:12,Ninh Binh-Ninh Binh,Ninh Binh,29.78,29.78,29.78,79.0,36.73,4334.0,4.21,93.0,6.78,7.78,74.0,993.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 17:37:03,Ninh Binh-Ninh Binh,Ninh Binh,29.78,29.78,29.78,79.0,36.73,4334.0,4.21,93.0,6.78,7.78,74.0,993.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 17:40:53,Ninh Binh-Ninh Binh,Ninh Binh,27.51,27.51,27.51,95.0,32.96,6858.0,8.65,94.0,5.92,9.03,128.0,996.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 17:44:44,Ninh Binh-Ninh Binh,Ninh Binh,27.51,27.51,27.51,95.0,32.96,6858.0,9.99,94.0,5.92,9.03,128.0,996.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 17:48:34,Ninh Binh-Ninh Binh,Ninh Binh,27.51,27.51,27.51,95.0,32.96,6858.0,9.99,94.0,5.92,9.03,128.0,996.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 17:52:24,Ninh Binh-Ninh Binh,Ninh Binh,27.51,27.51,27.51,95.0,32.96,6858.0,9.99,94.0,5.92,9.03,128.0,996.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 17:56:14,Ninh Binh-Ninh Binh,Ninh Binh,27.52,27.52,27.52,95.0,32.99,6858.0,8.65,94.0,5.92,9.03,128.0,996.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 18:00:06,Ninh Binh-Ninh Binh,Ninh Binh,27.52,27.52,27.52,95.0,32.99,6858.0,8.65,94.0,5.92,9.03,128.0,996.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 18:03:56,Ninh Binh-Ninh Binh,Ninh Binh,27.52,27.52,27.52,95.0,32.99,6858.0,8.65,94.0,5.92,9.03,128.0,996.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 18:07:48,Ninh Binh-Ninh Binh,Ninh Binh,27.47,27.47,27.47,95.0,32.82,6858.0,5.62,94.0,5.92,9.03,128.0,996.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 18:11:41,Ninh Binh-Ninh Binh,Ninh Binh,27.47,27.47,27.47,95.0,32.82,6858.0,3.87,94.0,5.92,9.03,128.0,996.0,1,501,Rain,moderate rain,10d
+2025-07-19 18:15:32,Ninh Binh-Ninh Binh,Ninh Binh,27.47,27.47,27.47,95.0,32.82,6858.0,5.46,94.0,5.92,9.03,128.0,996.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 18:19:24,Ninh Binh-Ninh Binh,Ninh Binh,27.47,27.47,27.47,95.0,32.82,6858.0,3.87,94.0,5.92,9.03,128.0,996.0,1,501,Rain,moderate rain,10d
+2025-07-19 18:23:18,Ninh Binh-Ninh Binh,Ninh Binh,27.46,27.46,27.46,95.0,32.79,6858.0,4.77,94.0,5.92,9.03,128.0,996.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 18:27:13,Ninh Binh-Ninh Binh,Ninh Binh,27.46,27.46,27.46,95.0,32.79,6858.0,6.14,94.0,5.92,9.03,128.0,996.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 18:31:09,Ninh Binh-Ninh Binh,Ninh Binh,27.46,27.46,27.46,95.0,32.79,6858.0,6.14,94.0,5.92,9.03,128.0,996.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 18:35:03,Ninh Binh-Ninh Binh,Ninh Binh,27.05,27.05,27.05,94.0,31.32,10000.0,5.62,95.0,3.03,5.54,167.0,996.0,1,502,Rain,heavy intensity rain,10d
+2025-07-19 18:38:59,Ninh Binh-Ninh Binh,Ninh Binh,27.05,27.05,27.05,94.0,31.32,10000.0,5.62,95.0,3.03,5.54,167.0,996.0,0,502,Rain,heavy intensity rain,10d
+2025-07-19 18:42:56,Ninh Binh-Ninh Binh,Ninh Binh,27.05,27.05,27.05,94.0,31.32,10000.0,4.86,100.0,2.81,4.74,172.0,996.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 18:46:50,Ninh Binh-Ninh Binh,Ninh Binh,27.05,27.05,27.05,94.0,31.32,10000.0,5.01,100.0,2.81,4.74,172.0,996.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 18:50:43,Ninh Binh-Ninh Binh,Ninh Binh,27.05,27.05,27.05,94.0,31.32,10000.0,4.86,100.0,2.81,4.74,172.0,996.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 18:54:32,Ninh Binh-Ninh Binh,Ninh Binh,27.05,27.05,27.05,94.0,31.32,10000.0,4.86,100.0,2.81,4.74,172.0,996.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 18:58:18,Ninh Binh-Ninh Binh,Ninh Binh,27.05,27.05,27.05,94.0,31.32,10000.0,5.31,100.0,2.81,4.74,172.0,996.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 19:02:07,Ninh Binh-Ninh Binh,Ninh Binh,27.05,27.05,27.05,94.0,31.32,10000.0,4.86,100.0,2.81,4.74,172.0,996.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 19:05:52,Ninh Binh-Ninh Binh,Ninh Binh,27.05,27.05,27.05,94.0,31.32,10000.0,5.31,100.0,2.81,4.74,172.0,996.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 19:09:38,Ninh Binh-Ninh Binh,Ninh Binh,27.05,27.05,27.05,94.0,31.32,10000.0,6.31,100.0,2.81,4.74,172.0,996.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 19:13:24,Ninh Binh-Ninh Binh,Ninh Binh,27.05,27.05,27.05,94.0,31.32,10000.0,6.48,100.0,2.81,4.74,172.0,996.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 19:17:09,Ninh Binh-Ninh Binh,Ninh Binh,27.05,27.05,27.05,94.0,31.32,10000.0,6.31,100.0,2.81,4.74,172.0,996.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 19:20:55,Ninh Binh-Ninh Binh,Ninh Binh,27.05,27.05,27.05,94.0,31.32,10000.0,6.48,100.0,2.81,4.74,172.0,996.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 19:24:41,Ninh Binh-Ninh Binh,Ninh Binh,27.05,27.05,27.05,94.0,31.32,10000.0,8.65,100.0,2.81,4.74,172.0,996.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 19:28:26,Ninh Binh-Ninh Binh,Ninh Binh,24.34,24.34,24.34,93.0,25.26,10000.0,8.18,100.0,2.81,4.74,172.0,997.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 19:32:12,Ninh Binh-Ninh Binh,Ninh Binh,24.79,24.79,24.79,92.0,25.73,10000.0,7.49,100.0,2.36,5.5,222.0,998.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 19:35:57,Ninh Binh-Ninh Binh,Ninh Binh,24.34,24.34,24.34,93.0,25.26,10000.0,8.18,100.0,2.81,4.74,172.0,997.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 19:39:43,Ninh Binh-Ninh Binh,Ninh Binh,24.79,24.79,24.79,92.0,25.73,10000.0,8.65,100.0,2.36,5.5,222.0,998.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 19:43:29,Ninh Binh-Ninh Binh,Ninh Binh,24.79,24.79,24.79,92.0,25.73,10000.0,8.65,100.0,2.36,5.5,222.0,998.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 19:47:14,Ninh Binh-Ninh Binh,Ninh Binh,24.79,24.79,24.79,91.0,25.7,10000.0,6.14,100.0,2.36,5.5,222.0,998.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 19:51:00,Ninh Binh-Ninh Binh,Ninh Binh,24.79,24.79,24.79,91.0,25.7,10000.0,6.14,100.0,2.36,5.5,222.0,998.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 19:54:47,Ninh Binh-Ninh Binh,Ninh Binh,24.79,24.79,24.79,91.0,25.7,10000.0,6.14,100.0,2.36,5.5,222.0,998.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 19:58:32,Ninh Binh-Ninh Binh,Ninh Binh,24.79,24.79,24.79,91.0,25.7,10000.0,6.48,100.0,2.36,5.5,222.0,998.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 20:02:17,Ninh Binh-Ninh Binh,Ninh Binh,24.79,24.79,24.79,91.0,25.7,10000.0,6.48,100.0,2.36,5.5,222.0,998.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 20:06:05,Ninh Binh-Ninh Binh,Ninh Binh,24.79,24.79,24.79,91.0,25.7,10000.0,6.48,100.0,2.36,5.5,222.0,998.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 20:09:51,Ninh Binh-Ninh Binh,Ninh Binh,24.8,24.8,24.8,92.0,25.74,10000.0,5.62,100.0,2.36,5.5,222.0,998.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 20:13:37,Ninh Binh-Ninh Binh,Ninh Binh,24.8,24.8,24.8,92.0,25.74,10000.0,5.62,100.0,2.36,5.5,222.0,998.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 20:17:24,Ninh Binh-Ninh Binh,Ninh Binh,24.8,24.8,24.8,92.0,25.74,10000.0,5.62,100.0,2.36,5.5,222.0,998.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 20:21:10,Ninh Binh-Ninh Binh,Ninh Binh,24.8,24.8,24.8,92.0,25.74,10000.0,5.62,100.0,2.36,5.5,222.0,998.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 20:24:56,Ninh Binh-Ninh Binh,Ninh Binh,24.8,24.8,24.8,92.0,25.74,10000.0,4.34,100.0,2.36,5.5,222.0,998.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 20:28:41,Ninh Binh-Ninh Binh,Ninh Binh,24.8,24.8,24.8,92.0,25.74,10000.0,5.62,100.0,2.36,5.5,222.0,998.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 20:32:26,Ninh Binh-Ninh Binh,Ninh Binh,24.8,24.8,24.8,92.0,25.74,10000.0,5.62,100.0,2.36,5.5,222.0,998.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 20:36:13,Ninh Binh-Ninh Binh,Ninh Binh,24.8,24.8,24.8,92.0,25.74,10000.0,5.62,100.0,2.36,5.5,222.0,998.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 20:40:00,Ninh Binh-Ninh Binh,Ninh Binh,25.19,25.19,25.19,91.0,26.14,10000.0,4.86,100.0,2.59,5.28,267.0,997.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 20:43:45,Ninh Binh-Ninh Binh,Ninh Binh,25.19,25.19,25.19,91.0,26.14,10000.0,4.86,100.0,2.59,5.28,267.0,997.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 20:47:32,Ninh Binh-Ninh Binh,Ninh Binh,25.19,25.19,25.19,92.0,26.17,10000.0,5.16,100.0,2.59,5.28,267.0,997.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 20:55:20,Ninh Binh-Ninh Binh,Ninh Binh,25.19,25.19,25.19,92.0,26.17,10000.0,4.73,100.0,2.59,5.28,267.0,997.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 20:59:06,Ninh Binh-Ninh Binh,Ninh Binh,25.19,25.19,25.19,92.0,26.17,10000.0,4.73,100.0,2.59,5.28,267.0,997.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 21:02:52,Ninh Binh-Ninh Binh,Ninh Binh,25.19,25.19,25.19,92.0,26.17,10000.0,4.73,100.0,2.59,5.28,267.0,997.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 21:06:38,Ninh Binh-Ninh Binh,Ninh Binh,25.19,25.19,25.19,92.0,26.17,10000.0,4.21,100.0,2.59,5.28,267.0,997.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 21:10:23,Ninh Binh-Ninh Binh,Ninh Binh,25.19,25.19,25.19,92.0,26.17,10000.0,4.21,100.0,2.59,5.28,267.0,997.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 21:14:23,Ninh Binh-Ninh Binh,Ninh Binh,25.19,25.19,25.19,92.0,26.17,10000.0,4.21,100.0,2.59,5.28,267.0,997.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 21:18:13,Ninh Binh-Ninh Binh,Ninh Binh,25.19,25.19,25.19,92.0,26.17,10000.0,5.16,100.0,2.59,5.28,267.0,997.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 21:22:02,Ninh Binh-Ninh Binh,Ninh Binh,25.19,25.19,25.19,92.0,26.17,10000.0,4.21,100.0,2.59,5.28,267.0,997.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 21:25:53,Ninh Binh-Ninh Binh,Ninh Binh,25.19,25.19,25.19,92.0,26.17,10000.0,5.16,100.0,2.59,5.28,267.0,997.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 21:33:22,Ninh Binh-Ninh Binh,Ninh Binh,24.97,24.97,24.97,94.0,25.98,10000.0,5.16,100.0,3.63,7.47,233.0,998.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 21:37:12,Ninh Binh-Ninh Binh,Ninh Binh,24.97,24.97,24.97,94.0,25.98,10000.0,5.16,100.0,3.63,7.47,233.0,998.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 21:40:58,Ninh Binh-Ninh Binh,Ninh Binh,24.97,24.97,24.97,94.0,25.98,10000.0,5.16,100.0,3.63,7.47,233.0,998.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 21:44:44,Ninh Binh-Ninh Binh,Ninh Binh,24.97,24.97,24.97,94.0,25.98,10000.0,4.86,100.0,3.63,7.47,233.0,998.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 21:48:33,Ninh Binh-Ninh Binh,Ninh Binh,25.02,25.02,25.02,93.0,26.01,10000.0,4.86,100.0,3.63,7.47,233.0,998.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 21:56:02,Ninh Binh-Ninh Binh,Ninh Binh,25.02,25.02,25.02,93.0,26.01,10000.0,4.86,100.0,3.63,7.47,233.0,998.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 21:59:51,Ninh Binh-Ninh Binh,Ninh Binh,25.02,25.02,25.02,93.0,26.01,10000.0,4.86,100.0,3.63,7.47,233.0,998.0,0,502,Rain,heavy intensity rain,10n
+2025-07-19 22:34:29,Ninh Binh-Ninh Binh,Ninh Binh,25.3,25.3,25.3,93.0,26.31,10000.0,1.78,100.0,3.89,9.26,242.0,998.0,0,501,Rain,moderate rain,10n
+2025-07-19 22:50:22,Ninh Binh-Ninh Binh,Ninh Binh,25.3,25.3,25.3,93.0,26.31,10000.0,2.05,100.0,3.89,9.26,242.0,998.0,0,501,Rain,moderate rain,10n
+2025-07-20 01:50:34,Ninh Binh-Ninh Binh,Ninh Binh,25.01,25.01,25.01,89.0,25.89,10000.0,12.96,100.0,1.62,4.37,278.0,996.0,0,502,Rain,heavy intensity rain,10n
