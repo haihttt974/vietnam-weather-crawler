@@ -54,6 +54,7 @@ def main():
     print(f"\nVí dụ các dòng trùng (tối đa {SHOW_MAX} dòng):")
     print(dup_rows.head(SHOW_MAX).to_string(index=False))
 
+    # Trả mã thoát 1 nếu có trùng
     sys.exit(1)
 
 if __name__ == "__main__":
